@@ -404,7 +404,7 @@ http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0599880a0eaf64bc257d12bc34f01a06.jpg" group-title="BRASIL", GV NEWS
 https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4a5e9c9d0cb42ba42262b6aa9edba2de.png" group-title="BRASIL", PRIMER TV
-http://200.194.238.229:8383/live/primer/index.m3u8
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title="BRASIL", TV PORTAL SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0cb3fc00ec2adfd013415da064c681bd.png" group-title="BRASIL", TV PORTAL MIDIA
