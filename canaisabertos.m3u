@@ -88,7 +88,7 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/391c4963508fd1eb9feb04029697a113.jpg" group-title="BRASIL", TV COM DF
 https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ae8c4979f2cb848a2f112d8afd097cb.jpg" group-title="BRASIL", TV ABERTA SP
-http://v8.ciclano.io:1935/canalpaulo/canalpaulo/chunklist_w1891181782.m3u8
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/423124d5c6c21ef24553145ac0701e1e.jpg" group-title="BRASIL", TVC RIO
 https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0b6d3fa5282a8e5943ce10ac40c09ef.jpg" group-title="BRASIL", TV COM MACEIO
