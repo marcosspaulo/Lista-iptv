@@ -509,6 +509,8 @@ https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="BRASIL",TV URUBURETAMA
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/390b367164c0eb9570224a0c63084581.jpg" group-title="BRASIL",TV SULANCA NEWS
+http://srv4.zcast.com.br/tvsulancanews/tvsulancanews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bf4a14e8ede1c0920acdd1764e45c5f.png" group-title="BRASIL", WEB TV FRUTAL
 https://flash1.hospedemax.com.br:8012/tvwebfrutal/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/74eeb2765564dd79d85e4d9c11431a87.jpg" group-title="BRASIL", CAMOCIM WEB TV
