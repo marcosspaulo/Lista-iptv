@@ -114,6 +114,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/02f51b8570ea8cfa33124682de42dc0a.jpg" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="BRASIL", TV FLORESTA
+https://srv-mc.sistemafloresta.com.br/sbt_live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/527a6298be22668c22700482e51edd6d.png" group-title="BRASIL", SBT INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="BRASIL", TV CIDADE VERDE
