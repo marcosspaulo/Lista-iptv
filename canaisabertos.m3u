@@ -30,6 +30,8 @@ https://video-rvd-df-2.rnp.br/live/ocp(t(FiGx6oOnx84)r(fVR9ug)a(vwXHyA)p(d(aGg)k
 https://livefocamundo.com:8081/8344/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99952bc10e0b9a0eeb6f47cbf054a87e.png" group-title="BRASIL",TV MAIS BRASIL
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvbejoinville.com.br/wp-content/uploads/2019/09/logo-1.png" group-title="BRASIL",TVBE
+https://5c483b9d1019c.streamlock.net:443/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="BRASIL",TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da95b302b2bbbda893559bceda5e2b13.png" group-title="BRASIL",TVE RS
