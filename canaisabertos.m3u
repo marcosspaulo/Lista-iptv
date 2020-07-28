@@ -194,7 +194,7 @@ https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
 https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9a62f6e997c5ae9e4247e707cd83c25.png" group-title="BRASIL", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LlgvAopiSFI/Xu-Jyoc4xiI/AAAAAAABY-k/EsjFYOGFIM45NXgYh3JQ0oocjg39cQQJwCK4BGAYYCw/s1600/Kr%25C3%25B3nos%2BMovie%2BWeb%2BTV.jpg" group-title="BRASIL", TV KRONOS MOVIE WEB TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="BRASIL", TV KRONOS MOVIE WEB TV
 https://livefocamundo.com:8081/8588/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40310039540944a5c70fa514a028a399.jpg" group-title="BRASIL", REDE TV MAIS
 https://5abdf4edae5bf.streamlock.net:443/tvarthdtv/tvarthdtv/playlist.m3u8
@@ -417,7 +417,7 @@ https://video01.kshost.com.br/portalmidia/portalmidia/playlist.m3u8
 http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2152c0dc41934839bfa8002e0703e272.png" group-title="BRASIL", TV JAGUAR
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvinterativa.net/wp-content/uploads/2019/05/logo-tv.png" group-title="BRASIL", TV INTERATIVA
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/13666d2ae7cb1537bd9eb4c8bcbfb818.png" group-title="BRASIL", TV INTERATIVA
 http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d006e3858251215b62f75a4136c7705f.png" group-title="BRASIL", TV CIDADE MARILIA
 https://5abdf4edae5bf.streamlock.net/tvcidademariliatv/tvcidademariliatv/playlist-480p.m3u8
