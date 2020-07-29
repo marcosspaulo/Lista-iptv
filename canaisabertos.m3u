@@ -247,7 +247,7 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/14d113d7291bc5c93a1ffe7ba86f460f.jpg" group-title="BRASIL",WEB TV PROGRESSO
 https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_RqHI7eLSppEHtiMU2aO6zzFJ9hIUGmHG_w&usqp=CAU" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bbcb82ee8d099a445d3721fdce02c6c.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://5abdf4edae5bf.streamlock.net/tribunaregionaltvwebtv/tribunaregionaltvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ecb6638b7e7c4c298b54b6bbe8b2fe7.jpg" group-title="BRASIL",WEB TV CASTELO DO PIAUI
 https://5d82644094cc0.streamlock.net/webtvcastelotv/webtvcastelotv/playlist-480p.m3u8
@@ -653,7 +653,7 @@ https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stre
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/643b706ca145dc55cf4f64634509f51c.png" group-title="RELIGIOSO",TV TUBA
 http://caikron.com.br:1935/rcr_tuba/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://santacruzara.com.br/admin/assets/img/logo.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12f7915a0a2eafaafbada81102d4f54a.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
 https://stmv6.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22f3a969d2397bff78f2684767dce752.png" group-title="RELIGIOSO",Rede Seculo 21
 https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
