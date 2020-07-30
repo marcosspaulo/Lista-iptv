@@ -153,7 +153,7 @@ https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d586d6cee28415b8aadc9f9eb3887d9d.png" group-title="BRASIL", TV NATAL
 http://177.195.16.123:1935/vmix/myStream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="BRASIL", TV MANCHETE
-https://srv4.zcast.com.br/tvmanchate/tvmanchate/playlist.m3u8
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="BRASIL", REDE MANCHETE
 https://stmv.voxtvhd.com.br/redemanchetetv/redemanchetetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="BRASIL",CANAL 29
