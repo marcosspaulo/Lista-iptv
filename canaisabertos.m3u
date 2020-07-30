@@ -212,6 +212,8 @@ https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933
 https://stmv6.srvstm.com/novatvn/novatvn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f9d04042613fc569bfe9e870991cd54f.png" group-title="BRASIL",WEB TV IMAGEM DE CAETANO
 https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45ffad7c9e49217ab2e38abcf37196bd.jpg" group-title="BRASIL",WEB TV NOVA PARAIBA
+https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="BRASIL",TV MON
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
