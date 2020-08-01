@@ -437,7 +437,7 @@ https://596639ebdd89b.streamlock.net:443/tvguarulhos/tvguarulhos/playlist.m3u8
 https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a90fb69ec4a661155aaae18242135af.png" group-title="BRASIL",TV GUARAPARI
 http://streaming.tvguarapari.com:1935/tvguarapari/smil:TV_GUARAPARI.smil/chunklist_w193302776_b1010000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://pa.srvsite.com/arquivos/4236/banner-4236-20200318114450.jpg" group-title="BRASIL",TV MARES GUARAPARI
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/37447370890445287a6d62c981559450.jpg" group-title="BRASIL",TV MARES GUARAPARI
 https://5abdf4edae5bf.streamlock.net/tvmarescanal13tv/tvmarescanal13tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0fadce70e9898c61fc040196a0afc896.png" group-title="BRASIL", TV SUL DE MINAS
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
