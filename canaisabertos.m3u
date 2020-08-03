@@ -166,6 +166,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pa.srvsite.com/arquivos/4381/cabecalho-4381-20200630123328.jpg" group-title="BRASIL",CANAL DA PECUARIA
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-Lg7f6jeRFQh8jh-l6Jxqi7c4_64qtaFziA&usqp=CAU" group-title="BRASIL",TV TOKIO
+https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/73a714ed4a72ca772af9a1d217761a38.png" group-title="BRASIL",RCC TV
 https://srv2.zcast.com.br/edvaldonicolau8872/edvaldonicolau8872/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6cdce90ee2f72d2feee0bab14b5ebd9.jpg" group-title="BRASIL", TV INFORBAHIA
