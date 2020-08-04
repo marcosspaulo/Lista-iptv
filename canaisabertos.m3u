@@ -128,8 +128,6 @@ https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w1406949766.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="BRASIL", TV GUARA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="BRASIL", TV DIARIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTQ561xcUau8Cz2fA2nxpG4)/dm/3/x7txn7q/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e203baa61a997851f879286d0e262b59.png" group-title="BRASIL", TV GAZETA
@@ -373,8 +371,6 @@ https://596639ebdd89b.streamlock.net/8040/8040/chunklist_w24402513.m3u8
 http://189.51.193.70:1935/LiderTV/fluxo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c0ec00ce28d7569714d1872af6245dc5.png" group-title="BRASIL", TV CENTRO SUL
 https://novo.bitstreaming.info:443/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="BRASIL",RAI MOVIE
-https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="BRASIL",AMERICAN HORROR CHANNEL
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5e3d81e54a54f56b7d1ee380d178413a.png" group-title="BRASIL",247 RETRO TV
@@ -398,7 +394,7 @@ https://5c483b9d1019c.streamlock.net:443/8238/8238/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a950f2be54cc69f2589b4147875fab13.png" group-title="BRASIL", TV LIBERDADE
 https://stmv1.ifantasy.com.br/washington/washington/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/850e6dd3d2750e126feff1e5d342ed15.png" group-title="BRASIL", LIVRE TV
-https://cdn.jmvstream.com/w/AVJ-9179/playlist/playlist.m3u8
+https://video01.kshost.com.br/lindon8564/lindon8564/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/05f2c9d5ab457dc2ac049674ac64a047.png" group-title="BRASIL", TV GERAL
 https://cdn.jmvstream.com/w/AVJ-9074/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f2fbca3e30bd64fb87355039c96c1fe.jpg" group-title="BRASIL",TV BIRITINGA
