@@ -509,9 +509,9 @@ https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc45613b4fb666f27e26c27db4a4bc31.jpg" group-title="BRASIL",TV ALEMS
 https://cdn.jmvstream.com/w/LVW-8512/LVW8512_qGSZbhNLAM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sed.ms.gov.br/wp-content/themes/fokma/img/logoGovernoEstado.png" group-title="BRASIL",TV ESCOLA MS 1
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2eba8f39b69b670cf257c1f19a7c9901.png" group-title="BRASIL",TV ESCOLA MS 1
 https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sed.ms.gov.br/wp-content/themes/fokma/img/logoGovernoEstado.png" group-title="BRASIL",TV ESCOLA MS 2
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2eba8f39b69b670cf257c1f19a7c9901.png" group-title="BRASIL",TV ESCOLA MS 2
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="BRASIL",TV URUBURETAMA
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
