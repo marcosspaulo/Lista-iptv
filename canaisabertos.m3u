@@ -162,6 +162,8 @@ https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DxVf5R0xgUc/Xry0J7xlDvI/AAAAAAAACys/xXhGhvBKyrIZQCBrzIDsfzNezF0LMRH9QCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-54-41.png" group-title="BRASIL",TV SERIES
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DxVf5R0xgUc/Xry0J7xlDvI/AAAAAAAACys/xXhGhvBKyrIZQCBrzIDsfzNezF0LMRH9QCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-54-41.png" group-title="BRASIL",TV SERIES 2
+https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://pa.srvsite.com/arquivos/4381/cabecalho-4381-20200630123328.jpg" group-title="BRASIL",CANAL DA PECUARIA
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-Lg7f6jeRFQh8jh-l6Jxqi7c4_64qtaFziA&usqp=CAU" group-title="BRASIL",TV TOKIO
