@@ -293,6 +293,8 @@ https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/playlist.m3u8
 https://srv-rs1.sisdera.com/hls/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7522250fb2d03b2b22c9e1e54254a371.jpg" group-title="BRASIL", YEEAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="BRASIL", TV TEEN NET
+https://srv4.zcast.com.br/tvteennet/tvteennet/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe2e0d701fc497874548b3409a9b9329.png" group-title="BRASIL",TV 3 VIA
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3be956355b45f5d0014c4d148d497a62.png" group-title="BRASIL", NB WEB TV
@@ -517,6 +519,8 @@ https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="BRASIL",TV URUBURETAMA
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbr.srvsite.com/arquivos/8065/logo_face-8065-20200716122248.png" group-title="BRASIL",TV POMBAL
+https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/390b367164c0eb9570224a0c63084581.jpg" group-title="BRASIL",TV SULANCA NEWS
 http://srv4.zcast.com.br/tvsulancanews/tvsulancanews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bf4a14e8ede1c0920acdd1764e45c5f.png" group-title="BRASIL", WEB TV FRUTAL
@@ -549,6 +553,8 @@ https://5d2c98775bafe.streamlock.net/8156/8156/playlist-480p.m3u8
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tonyshow.com/tspbhd/wp-content/uploads/2017/09/MARCA-TV-TS-2017-site.png" group-title="BRASIL",TV TSPB
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16002dce22903d5e61b3c0c311a59c02.jpg" group-title="BRASIL",NOVA TV FRANCA
 https://5b7f3c45ab7c2.streamlock.net/8124/8124/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1b6f20e5d91830f22c781450f1d0e777.png" group-title="BRASIL", TV LITORAL
@@ -591,6 +597,8 @@ https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title="BRASIL",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvcognopolis.com.br/wp-content/uploads/2018/04/logo-half-49px.png" group-title="BRASIL",TV COGNOPOLIS
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df1ae002c034f31794a7b525b5c884b2.jpg" group-title="BRASIL",TV ALVORADA SAT
 https://srv2.zcast.com.br/alvoradasat/alvoradasat/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c53f22aed14e785d41864440f0f0217.jpg" group-title="BRASIL", CANAL 25 JUNDIAI
