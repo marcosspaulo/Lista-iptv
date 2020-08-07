@@ -346,7 +346,7 @@ https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a9a8f01189ff6702182975edb02bab0.jpg" group-title="BRASIL",TV IRACEMA
 https://stmv1.mycast.com.br/iracematv/iracematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="BRASIL",REDE TVC
-https://5d2c98775bafe.streamlock.net/8060/8060/playlist.m3u8
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d8e0651e1ae0002e61daf919b2bcc853.png" group-title="BRASIL",CARIRI TV
 https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1659524698.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a1da8fb88aef9df3483c940df68b87cf.jpg" group-title="BRASIL",NOSSA TV MOSSORO
@@ -370,7 +370,7 @@ https://novo.bitstreaming.info/redeestacao26tv/redeestacao26tv/chunklist_w148333
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4da299f31bab41f4e9b4620f85e502f6.jpg" group-title="BRASIL", VIN TV
 https://5b7f3c45ab7c2.streamlock.net/8044/ngrp:8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title="BRASIL", RDC TV 
-https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
+https://ffmh4milme.zoeweb.tv/demo/rdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf07f56766cdeaa571235d42e8f72f4.png" group-title="BRASIL", MARICA TV
 https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70f393e86f50422f044d976256dc0125.png" group-title="BRASIL", TERE TV
