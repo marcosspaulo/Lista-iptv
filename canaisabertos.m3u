@@ -116,6 +116,8 @@ https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgs.correioweb.com.br/logo_web.png" group-title="BRASIL", TV BRASILIA SEG A SEX 11:45 ATE 14:00
+http://rtmp.cdn.upx.net.br:1935/19b2/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="BRASIL", BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="BRASIL",BAND NEWS
