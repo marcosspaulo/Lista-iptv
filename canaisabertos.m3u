@@ -127,7 +127,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="BRASIL", TV FLORESTA
 https://srv-mc.sistemafloresta.com.br/sbt_live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/527a6298be22668c22700482e51edd6d.png" group-title="BRASIL", SBT INTERIOR
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+http://srv3.zoeweb.tv:1935/z133-live/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="BRASIL", TV CIDADE VERDE
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd082a2640b45935b4d9fed13af5a966.png" group-title="BRASIL",TV DIFUSORA MA 10
