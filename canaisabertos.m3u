@@ -174,6 +174,10 @@ https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
 https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ee125aec08a755820f95505820d3119.jpg" group-title="BRASIL",CANAL DA PECUARIA
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6c569d857146d63dac519c477303c71f.png" group-title="BRASIL", IMPERIAL TV
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LFwmjpqaye8/XyS6oYhF9jI/AAAAAAAADGs/44wSgd1M5t0C5UdTAh8dFSsN4yM4LeiMgCLcBGAsYHQ/s320/Screenshot_2020-07-31-21-38-32.png" group-title="BRASIL",TV OFFLINE
+https://tna5.bozztv.com/offline/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-Lg7f6jeRFQh8jh-l6Jxqi7c4_64qtaFziA&usqp=CAU" group-title="BRASIL",TV TOKYO
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/73a714ed4a72ca772af9a1d217761a38.png" group-title="BRASIL",RCC TV
