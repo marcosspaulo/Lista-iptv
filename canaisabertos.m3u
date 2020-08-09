@@ -779,8 +779,6 @@ https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
 http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9423ac704cba42b30d490a6d3fdab2ec.jpg" group-title="MUSICA", RTL SANTOS
 https://cdn-kassem-1574.ciclano.io:1443/kassem-1574/kassem-1574/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1593390a64b7e84f7de92c6a88a2e055.png" group-title="MUSICA",TV MOL
-https://5abdf4edae5bf.streamlock.net/tvmoltvstation/tvmoltvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6b8b573a0f6d100907bd641f55dd548d.jpg" group-title="MUSICA",TV IMAGEM
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 #EXTINF:-1 tvg-logo="https://rederc.com.br/wp-content/uploads/2019/11/logorederc-300x169.png" group-title="MUSICA",REDE RC
