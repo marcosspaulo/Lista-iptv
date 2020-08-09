@@ -176,6 +176,8 @@ https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6c569d857146d63dac519c477303c71f.png" group-title="BRASIL", IMPERIAL TV
 https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://pbr.srvsite.com/arquivos/8065/logo_face-8065-20200716122248.png" group-title="BRASIL",TV POMBAL
+https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LFwmjpqaye8/XyS6oYhF9jI/AAAAAAAADGs/44wSgd1M5t0C5UdTAh8dFSsN4yM4LeiMgCLcBGAsYHQ/s320/Screenshot_2020-07-31-21-38-32.png" group-title="BRASIL",TV OFFLINE
 https://tna5.bozztv.com/offline/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-Lg7f6jeRFQh8jh-l6Jxqi7c4_64qtaFziA&usqp=CAU" group-title="BRASIL",TV TOKYO
@@ -533,8 +535,6 @@ https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="BRASIL",TV URUBURETAMA
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbr.srvsite.com/arquivos/8065/logo_face-8065-20200716122248.png" group-title="BRASIL",TV POMBAL
-https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/390b367164c0eb9570224a0c63084581.jpg" group-title="BRASIL",TV SULANCA NEWS
 http://srv4.zcast.com.br/tvsulancanews/tvsulancanews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bf4a14e8ede1c0920acdd1764e45c5f.png" group-title="BRASIL", WEB TV FRUTAL
