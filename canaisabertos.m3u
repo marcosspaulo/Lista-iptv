@@ -116,8 +116,6 @@ https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://imgs.correioweb.com.br/logo_web.png" group-title="BRASIL", TV BRASILIA SEG A SEX 11:45 ATE 14:00
-http://rtmp.cdn.upx.net.br:1935/19b2/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="BRASIL", BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="BRASIL",BAND NEWS
@@ -321,7 +319,7 @@ https://livefocamundo.com:8081/8184/tracks-v1a1/mono.m3u8
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc8d11a2f28d597643226a5d03519c58.png" group-title="BRASIL", TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzMLWx03uZGCOz5aewJaVoffa0-cjkmQi5oS5qqkQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="BRASIL", SUL TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd4910e7dda4217277792b1281952065.png" group-title="BRASIL", SUL TV
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a58fed06fc6fccc07c38a1ddd8cdcb63.png" group-title="BRASIL", TV CANDIDES
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
@@ -781,7 +779,7 @@ http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 https://cdn-kassem-1574.ciclano.io:1443/kassem-1574/kassem-1574/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6b8b573a0f6d100907bd641f55dd548d.jpg" group-title="MUSICA",TV IMAGEM
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
-#EXTINF:-1 tvg-logo="https://rederc.com.br/wp-content/uploads/2019/11/logorederc-300x169.png" group-title="MUSICA",REDE RC
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc572d903c8a600d3303ba1917ae0c82.jpg" group-title="MUSICA",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42ebefef61336289c551dd0c27c063f5.png" group-title="MUSICA", ALX TV
 https://srv2.zcast.com.br/alxtv/alxtv/playlist.m3u8
