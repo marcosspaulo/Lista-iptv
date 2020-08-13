@@ -233,6 +233,8 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="BRASIL", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3bf81870ac423ecb6d2e0c97d4733701.png" group-title="BRASIL",AMTV MAIS
+https://5eaa6849d0971.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c1d1eb3bc05b457cfcf7a88d4fb23497.jpg" group-title="BRASIL", TV BRASIL OESTE
 https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/30bfd4e74aeb1ffcaf1f81c297d99d23.jpg" group-title="BRASIL", TV BRUSQUE
@@ -615,7 +617,7 @@ https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title="BRASIL",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvcognopolis.com.br/wp-content/uploads/2018/04/logo-half-49px.png" group-title="BRASIL",TV COGNOPOLIS
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3bf81870ac423ecb6d2e0c97d4733701.png" group-title="BRASIL",TV COGNOPOLIS
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df1ae002c034f31794a7b525b5c884b2.jpg" group-title="BRASIL",TV ALVORADA SAT
 https://srv2.zcast.com.br/alvoradasat/alvoradasat/playlist.m3u8
