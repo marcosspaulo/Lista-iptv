@@ -259,6 +259,10 @@ https://cdn-hfpublicidade1.ciclano.io:1443/hfpublicidade1/hfpublicidade1/playlis
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://classiqueweb.com.br/logos/logoTVclassique_web.jpg" group-title="BRASIL",CLASSIQUE TV
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://classiqueweb.com.br/logos/logoTVclassique_web.jpg" group-title="BRASIL",CLASSIQUE TV 2
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://classiqueweb.com.br/logos/logoTVclassique_web.jpg" group-title="BRASIL",CLASSIQUE TV 3
+https://stmv1.srvif.com/classiquetv/classiquetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7acc2ed352b08126b259ca9f48c25fa.jpg" group-title="BRASIL",CINE TRIANON TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30e217cb2a7dce614cf814985184492.png" group-title="BRASIL", TV QUE DEMAIS
