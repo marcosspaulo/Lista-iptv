@@ -81,7 +81,7 @@ http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c90a98e507f257c578d8bdf6973556d.png" group-title="BRASIL",FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://www.upf.br/Assets/img/logo-template.png" group-title="BRASIL",UPF TV
-https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fii6Qb-ezzE)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(H1lYvcdEeU22HzwjHLMkuw)n(a(QMLtIg)s(zzA)'a(lQi65Q)s(rEA)))s(s(Prk)b(4_Ey82M1wrs5etrCqFhQrmPVddfnvdlpL_oy-QKTH-tkrvcSSQqc5MRwaX1K5zTzD_GtJ6ljY23XIkqaVg)'s(mhY)b(-ZNyQBzaqJ47IqP6XEKkkhtrFXIKIMJZG_pl1W6CdIqwixmF1TeBGQKM7Pk0NMFi-fbNKALS6r21AcOONtTlpuq9nwj24-T98njDR5N1)'s(zJk)b(KsuPEJQL))m(0))/11_index.m3u8
+https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FitwMMkWVyU)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(fpovbVo4sOIqiUH2aK1ByQ)n(a(CnyPkg)s(h5U)'a(Tzl0Jw)s(gl0)))s(s(prw)b(Hb3lsQwYciGaXw-LInT-8SDLyeaAXOe01VIWgaBFmucD-5eG6Oekt6bjmLLutk72TZO6u1DcQefvsd1DuA)'s(ERc)b(ZObSDMJwTklo0pgvGhYZFmQE-9igtR8TzWYOq9KRnnTKw_IueGqKQfY-tZG7lWsiaSAPNhmf4j8dVI_HmWBGtVDEiH6afeIICUfdJSBT)'s(QK4)b(mxT6_SwL))m(0))/4_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f24864c29a08f38070da2e3cb52b4e7.png" group-title="BRASIL",UnB TV
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(GM4TWWdkmoZ0mRYMOnT-CA)n(a(NKfpRw)s(Ruk)'a(1Bu5BA)s(ZdE)))s(s(fpg)b(S7DimC3lUpo38DRNGKciFoQElDNPyeEfXr7NNmoWbndF5g4Obp_AfmvmQaZWMe4pbDZoEnF35Tran6xvew)'s(Qt8)b(JQlGjieY5FwHRbD9A8my44a72oulXRIFcGi2v3Al7l0E4CQ3dvYI5wSTThGgrf8xRBy2PupbzDw6BRf0d7T-ie2B6E1YBBs8a7pK0fU4)'s(XwI)b(NzOo9s6Y))m(0))/unb_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ca781620fe7f3258d8e6d03bf0cd73c.jpg" group-title="BRASIL",TV ADO
@@ -109,7 +109,7 @@ https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/150px-Logotipo_da_Record.png" group-title="BRASIL", RECORD TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f68b0165575c8dbc6d81421b17caa8af.jpg" group-title="BRASIL",SIC TV
-https://582b8d3a8267b.streamlock.net/2502/2502/chunklist_w1300418143.m3u8
+https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="BRASIL", REDE TV
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="BRASIL", TV PAMPA
@@ -229,7 +229,7 @@ https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45ffad7c9e49217ab2e38abcf37196bd.jpg" group-title="BRASIL",WEB TV NOVA PARAIBA
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="BRASIL",TV MON
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
 uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7513d543c8cf7945825a92d76a858f26.jpg" group-title="BRASIL", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
@@ -729,18 +729,16 @@ http://hls.fm1.com.br:8080/hls/tvliberdade.m3u8
 http://rtmp.cdn.upx.net.br/kwjqp/smil:cidadeviva.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/04ad769772a50d8be2fe080ec61b54c6.jpg" group-title="RELIGIOSO",TV REINO
 https://livefocamundo.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1345e8f4702c5dedfb95652bcbbef19d.png" group-title="RELIGIOSO",TV CENTRO OESTE
-https://5b7f3c45ab7c2.streamlock.net/tvcentro/tvcentro/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7289109c8c539193241ae5de015e4fbc.png" group-title="RELIGIOSO",REDE CNT
 https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc56623a8cbf2f45d462cf93fc540de7.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/79d2adb83b033c851260993098f7d6b4.png" group-title="RELIGIOSO",TV CAPITAL
-https://stmv1.srvif.com/rbc/rbc/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMyXnAq.png" group-title="RELIGIOSO",IDEAL TV
+http://189.91.128.150:5555/udp/227.10.20.143:1234
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="RELIGIOSO",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b1ea269f673bbd4459aa53f2b78ff14.png" group-title="RELIGIOSO",PLENITUDE TV
-https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/playlist.m3u8
+https://stmv1.painelvox.top/siteiaptd/siteiaptd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d8fb419ad2b89ff1302e149a9774bc5.png" group-title="RELIGIOSO",UNIVERSAL TV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bf91e27961ebf72e35f3d918964977b.jpg" group-title="RELIGIOSO",MKK WEB TV
