@@ -138,8 +138,6 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e203baa61a997851f879286d0e262b59.png" group-title="BRASIL", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29e36ad62ed2f52f7631ec5c5faf91a7.png" group-title="BRASIL", TV GAZETA GOIAS
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c1b16402c98da43a39e97fca49875675.png" group-title="BRASIL", TV ALTERNATIVA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="BRASIL", REDE BRASIL TV
