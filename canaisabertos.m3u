@@ -276,11 +276,11 @@ https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playl
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bbcb82ee8d099a445d3721fdce02c6c.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://5abdf4edae5bf.streamlock.net/tribunaregionaltvwebtv/tribunaregionaltvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ecb6638b7e7c4c298b54b6bbe8b2fe7.jpg" group-title="BRASIL",WEB TV CASTELO DO PIAUI
-https://sam.bitstreaming.info:1936/webtvcastelotv/webtvcastelotv/playlist.m3u8
+https://5eaa6849d0971.streamlock.net:443/webtvcastelotv/webtvcastelotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49d8cf1ee3903082760d9312f3477fb0.png" group-title="BRASIL", WTJ TV MINAS
 https://livefocamundo.com:8081/8200/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24b1cd1064865c050503ea604e4526a.jpg" group-title="BRASIL", TV J SID
-https://stmv6.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+https://livefocamundo.com:8081/8650/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg" group-title="BRASIL",CANAL ITU TV
 http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title="BRASIL",TV DIGITAL BIRIGUI
