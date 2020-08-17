@@ -575,7 +575,7 @@ https://5d2c98775bafe.streamlock.net/8156/8156/playlist-480p.m3u8
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tonyshow.com/tspbhd/wp-content/uploads/2017/09/MARCA-TV-TS-2017-site.png" group-title="BRASIL",TV TSPB
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/532e31767c73f49137e7377acdd22a72.png" group-title="BRASIL",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16002dce22903d5e61b3c0c311a59c02.jpg" group-title="BRASIL",NOVA TV FRANCA
 https://5b7f3c45ab7c2.streamlock.net/8124/8124/playlist.m3u8?DVR
@@ -843,7 +843,7 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA",PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
-#EXTINF:-1 tvg-logo="https://radioitalia.vision/wp-content/uploads/2019/01/logo_radioitaliavision-1.png" group-title="MUSICA",RADIO ITALIA VISION
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4df51fdae9de2b92f951aa1a47de7365.jpg" group-title="MUSICA",RADIO ITALIA VISION
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
