@@ -30,7 +30,7 @@ https://video-rvd-df-2.rnp.br/live/ocp(t(FiGx6oOnx84)r(fVR9ug)a(vwXHyA)p(d(aGg)k
 https://livefocamundo.com:8081/8344/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99952bc10e0b9a0eeb6f47cbf054a87e.png" group-title="BRASIL",TV MAIS BRASIL
 https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(Fit1ibhb0g0)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(CIzQzTGnb6jZD8c15-IHew)n(a(YcYeyw)s(l8w)'a(yEOAhw)s(2SE)))s(s(8WI)b(LlgQnMoqUGYitMPUvIWf7ip6kWhJpy_Rmc-XEMsz8Z2ZL934nhMLE7hw0L_EQ1ecTXgNm8s4bqJ-3LY8sg)'s(O6Y)b(rDr8SL79-aYS2hYJ8m2pPfRHiJRdsDaHucNnONbPYFiGDG1B8n7tEQsXrWn63rcOaSlbeeigxfyvX_1o9N_DPoJ9bEbLIlGnt4_cfY-p)'s(CNQ)b(Hn7k10Dk))m(0))/28_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f304112ee9710d0a57ec8a6cf2fbe4f1.jpg" group-title="BRASIL",TVBE
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa9fd58fa6a914bea25f3b3ee885e132.png" group-title="BRASIL",TVBE
 https://5c483b9d1019c.streamlock.net:443/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="BRASIL",TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
@@ -619,7 +619,7 @@ https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title="BRASIL",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3bf81870ac423ecb6d2e0c97d4733701.png" group-title="BRASIL",TV COGNOPOLIS
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa03973dc0d9b0d1853d9df5a9ce7e37.jpg" group-title="BRASIL",TV COGNOPOLIS
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df1ae002c034f31794a7b525b5c884b2.jpg" group-title="BRASIL",TV ALVORADA SAT
 https://srv2.zcast.com.br/alvoradasat/alvoradasat/playlist.m3u8
