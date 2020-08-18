@@ -276,7 +276,7 @@ https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playl
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bbcb82ee8d099a445d3721fdce02c6c.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://5abdf4edae5bf.streamlock.net/tribunaregionaltvwebtv/tribunaregionaltvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ecb6638b7e7c4c298b54b6bbe8b2fe7.jpg" group-title="BRASIL",WEB TV CASTELO DO PIAUI
-https://5eaa6849d0971.streamlock.net:443/webtvcastelotv/webtvcastelotv/playlist.m3u8
+https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49d8cf1ee3903082760d9312f3477fb0.png" group-title="BRASIL", WTJ TV MINAS
 https://livefocamundo.com:8081/8200/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24b1cd1064865c050503ea604e4526a.jpg" group-title="BRASIL", TV J SID
@@ -323,6 +323,8 @@ https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/playlist.m3u8
 https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6dbfc1b32a9cb5e754792710fa1e6c1.jpg" group-title="BRASIL",REDE CAXIAS TV
 https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5859d8d8fe1c47c78e21b5022921a92c.png" group-title="BRASIL",REDE ECO ABC
+https://stmv1.painelvox.top/ecotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24169065abbca5112493217775b6172.jpg" group-title="BRASIL", CBTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvcnb.com/wp-content/uploads/2019/03/cropped-logo_CNB_transparente-2-192x192.png" group-title="BRASIL", TV CNB
@@ -424,7 +426,7 @@ https://5c483b9d1019c.streamlock.net:443/8238/8238/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a950f2be54cc69f2589b4147875fab13.png" group-title="BRASIL", TV LIBERDADE
 https://stmv1.ifantasy.com.br/washington/washington/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/850e6dd3d2750e126feff1e5d342ed15.png" group-title="BRASIL", LIVRE TV
-https://video01.kshost.com.br/lindon8564/lindon8564/playlist.m3u8
+https://Stmv1.samcast.com.br/livreradio/livreradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/05f2c9d5ab457dc2ac049674ac64a047.png" group-title="BRASIL", TV GERAL
 https://cdn.jmvstream.com/w/AVJ-9074/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f2fbca3e30bd64fb87355039c96c1fe.jpg" group-title="BRASIL",TV BIRITINGA
@@ -537,6 +539,8 @@ http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3a1cbce6fe83048506495d1e3b30d8d8.png" group-title="BRASIL",TVC 16
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-axrAu7e5CD8/XtqVrsS0T3I/AAAAAAAAC6c/4S_JWwyhhbAeIevMPkNsC0ukftwKU19rgCLcBGAsYHQ/s320/2020-06-05%2B15.51.20.png" group-title="BRASIL",TV TRIBUNA LIVRE
+https://5abdf4edae5bf.streamlock.net/tribunalivretv/tribunalivretv/chunklist_w493172166.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc45613b4fb666f27e26c27db4a4bc31.jpg" group-title="BRASIL",TV ALEMS
 https://cdn.jmvstream.com/w/LVW-8512/LVW8512_qGSZbhNLAM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2eba8f39b69b670cf257c1f19a7c9901.png" group-title="BRASIL",TV ESCOLA MS 1
