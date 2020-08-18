@@ -321,6 +321,8 @@ https://srv4.zcast.com.br/tvteennet/tvteennet/playlist-480p.m3u8
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3be956355b45f5d0014c4d148d497a62.png" group-title="BRASIL", NB WEB TV
 https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6dbfc1b32a9cb5e754792710fa1e6c1.jpg" group-title="BRASIL",REDE CAXIAS TV
+https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24169065abbca5112493217775b6172.jpg" group-title="BRASIL", CBTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvcnb.com/wp-content/uploads/2019/03/cropped-logo_CNB_transparente-2-192x192.png" group-title="BRASIL", TV CNB
