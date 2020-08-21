@@ -303,7 +303,7 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3a3e3164af35712ff9e30297500319b.png" group-title="BRASIL",TV MAR
 https://v7.ciclano.io:1443/tvmar/tvmar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pa.srvsite.com/arquivos/5322/logo_face-5322-20200110133725.png" group-title="BRASIL",TV MAR RIO GRANDE
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/14366c33555d2c166775469f3e0a2e10.png" group-title="BRASIL",TV MAR RIO GRANDE
 https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6aa39b4a7402eb8e8b0a3207d294987c.png" group-title="BRASIL",LUAU TV
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
@@ -851,7 +851,7 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4df51fdae9de2b92f951aa1a47de7365.jpg" group-title="MUSICA",RADIO ITALIA VISION
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="MUSICA",MUSIC TOP
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9512bacf6f14cf9e6a45dc35587fa12e.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/298052f7d0c144e82b2750ad55289082.png" group-title="MUSICA",TERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
