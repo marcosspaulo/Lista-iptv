@@ -166,9 +166,9 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DxVf5R0xgUc/Xry0J7xlDvI/AAAAAAAACys/xXhGhvBKyrIZQCBrzIDsfzNezF0LMRH9QCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-54-41.png" group-title="BRASIL",TV SERIES
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DxVf5R0xgUc/Xry0J7xlDvI/AAAAAAAACys/xXhGhvBKyrIZQCBrzIDsfzNezF0LMRH9QCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-54-41.png" group-title="BRASIL",TV SERIES 2
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES 2
 https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ee125aec08a755820f95505820d3119.jpg" group-title="BRASIL",CANAL DA PECUARIA
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
