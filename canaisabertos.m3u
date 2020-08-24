@@ -166,6 +166,8 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="BRASIL",RETRO CARTOON 2
+https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES 2
@@ -783,6 +785,8 @@ https://5d23bdca513db.streamlock.net:443/8016/8016/playlist.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/508e101c31ceb6b8efc95eb64c071e19.jpg" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/508e101c31ceb6b8efc95eb64c071e19.jpg" group-title="MUSICA",GOSPEL MUSIC TV 2
+https://stmv1.srvif.com/gmusic3/gmusic3/chunklist_w1281838577.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="MUSICA", TV ESTADO
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" group-title="MUSICA", TOP TV
