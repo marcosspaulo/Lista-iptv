@@ -168,6 +168,8 @@ https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="BRASIL",RETRO CARTOON 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nkOfz6uFffw/X0Qu7cEU5oI/AAAAAAAADLU/f0RgvYS4GTQRAc79MJXPOn5N3kb6W17EgCPcBGAYYCw/s320/Screenshot_2020-08-24-17-21-02.png" group-title="BRASIL",TV RECON SAT KIDS
+https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES 2
