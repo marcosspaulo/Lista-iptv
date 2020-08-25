@@ -202,6 +202,8 @@ https://stmv.voxtvhd.com.br/istv/istv/playlist.m3u8
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-y_6_CA_m958/X0RDkZGPCMI/AAAAAAAADLc/HbiMvmLEBIAteLT85H8PLaGcjvYyVQ5XwCLcBGAsYHQ/s320/Screenshot_2020-08-24-19-42-21.png" group-title="BRASIL", TV MEGA CINE
+http://stmv1.srvif.com/tvmegacine/tvmegacine/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="BRASIL", TV ARACATI
 https://livefocamundo.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8dddcbb5ffa8620f2e255d1f65414984.png" group-title="BRASIL",MEGA TV
