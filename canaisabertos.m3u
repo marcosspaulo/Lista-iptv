@@ -589,6 +589,8 @@ https://5d2c98775bafe.streamlock.net/8156/8156/playlist-480p.m3u8
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3ISOOnt3ec/X0F-1q1fRgI/AAAAAAAAD2o/jQXupeQYhTUQYM7wIV6krFpHlqABi-NBQCK4BGAYYCw/s1169/radio4.jpg" group-title="BRASIL",TV RECON SAT
+https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/532e31767c73f49137e7377acdd22a72.png" group-title="BRASIL",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16002dce22903d5e61b3c0c311a59c02.jpg" group-title="BRASIL",NOVA TV FRANCA
@@ -761,6 +763,8 @@ https://stmv1.painelvox.top/siteiaptd/siteiaptd/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bf91e27961ebf72e35f3d918964977b.jpg" group-title="RELIGIOSO",MKK WEB TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3ISOOnt3ec/X0F-1q1fRgI/AAAAAAAAD2o/jQXupeQYhTUQYM7wIV6krFpHlqABi-NBQCK4BGAYYCw/s1169/radio4.jpg" group-title="RELIGIOSO",TV RECON SAT GOSPEL
+https://stmv1.srvif.com/reconsatgospel/reconsatgospel/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="RELIGIOSO",TV NOVO MILENIO
 http://wz5.dnip.com.br/mileniotv/mileniotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c7c18048390de8edc5efc2c21ff03fc.png" group-title="RELIGIOSO",REDE RVC
@@ -809,6 +813,8 @@ http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessioni
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42ebefef61336289c551dd0c27c063f5.png" group-title="MUSICA", ALX TV
 https://srv2.zcast.com.br/alxtv/alxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3ISOOnt3ec/X0F-1q1fRgI/AAAAAAAAD2o/jQXupeQYhTUQYM7wIV6krFpHlqABi-NBQCK4BGAYYCw/s1169/radio4.jpg" group-title="MUSICA",TV RECON SAT SHOW
+https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA", CDTV
 https://srv2.zcast.com.br/cdtv/cdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a2f6d2e1222f1be5507bf3639cae337.jpg" group-title="MUSICA", TV ALVORADA SERTANEJA
