@@ -160,7 +160,7 @@ https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="BRASIL",RETRO CARTOON 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nkOfz6uFffw/X0Qu7cEU5oI/AAAAAAAADLU/f0RgvYS4GTQRAc79MJXPOn5N3kb6W17EgCPcBGAYYCw/s320/Screenshot_2020-08-24-17-21-02.png" group-title="BRASIL",TV RECON SAT KIDS
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT KIDS
 https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="BRASIL",TV SERIES
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
@@ -194,7 +194,7 @@ https://stmv.voxtvhd.com.br/istv/istv/playlist.m3u8
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-y_6_CA_m958/X0RDkZGPCMI/AAAAAAAADLc/HbiMvmLEBIAteLT85H8PLaGcjvYyVQ5XwCLcBGAsYHQ/s320/Screenshot_2020-08-24-19-42-21.png" group-title="BRASIL", TV MEGA CINE
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL", TV MEGA CINE
 http://stmv1.srvif.com/tvmegacine/tvmegacine/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="BRASIL", TV ARACATI
 https://livefocamundo.com:8081/8148/index.m3u8
@@ -567,7 +567,7 @@ https://5d2c98775bafe.streamlock.net/8156/8156/playlist-480p.m3u8
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3ISOOnt3ec/X0F-1q1fRgI/AAAAAAAAD2o/jQXupeQYhTUQYM7wIV6krFpHlqABi-NBQCK4BGAYYCw/s1169/radio4.jpg" group-title="BRASIL",TV RECON SAT
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06cf4d59905aa1532681c36d507df4ec.png" group-title="BRASIL",TV REVISTA
 https://stmv1.srvif.com/tvrevista/tvrevista/playlist-480p.m3u8
@@ -743,7 +743,7 @@ https://stmv1.painelvox.top/siteiaptd/siteiaptd/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bf91e27961ebf72e35f3d918964977b.jpg" group-title="RELIGIOSO",MKK WEB TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3ISOOnt3ec/X0F-1q1fRgI/AAAAAAAAD2o/jQXupeQYhTUQYM7wIV6krFpHlqABi-NBQCK4BGAYYCw/s1169/radio4.jpg" group-title="RELIGIOSO",TV RECON SAT GOSPEL
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="RELIGIOSO",TV RECON SAT GOSPEL
 https://stmv1.srvif.com/reconsatgospel/reconsatgospel/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="RELIGIOSO",TV NOVO MILENIO
 http://wz5.dnip.com.br/mileniotv/mileniotv.sdp/playlist.m3u8
@@ -777,7 +777,7 @@ https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/508e101c31ceb6b8efc95eb64c071e19.jpg" group-title="MUSICA",GOSPEL MUSIC TV 2
 https://stmv1.srvif.com/gmusic3/gmusic3/chunklist_w1281838577.m3u8
-#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/img-logo-topo.png" group-title="BRASIL",CHANNEL TEST
+#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/img-logo-topo.png" group-title="MUSICA",CHANNEL TEST
 https://StmV6.srvstm.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="MUSICA", TV ESTADO
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
@@ -795,7 +795,7 @@ http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessioni
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42ebefef61336289c551dd0c27c063f5.png" group-title="MUSICA", ALX TV
 https://srv2.zcast.com.br/alxtv/alxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3ISOOnt3ec/X0F-1q1fRgI/AAAAAAAAD2o/jQXupeQYhTUQYM7wIV6krFpHlqABi-NBQCK4BGAYYCw/s1169/radio4.jpg" group-title="MUSICA",TV RECON SAT SHOW
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="MUSICA",TV RECON SAT SHOW
 https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA", CDTV
 https://srv2.zcast.com.br/cdtv/cdtv/playlist.m3u8
