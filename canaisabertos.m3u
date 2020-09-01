@@ -115,13 +115,11 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/02f51b8570ea8cfa33124682de42dc0a.jpg" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/388866bfe999800f5b8c219e94c5bd35.png" group-title="BRASIL", TV FLORESTA
-https://srv-mc.sistemafloresta.com.br/sbt_live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/527a6298be22668c22700482e51edd6d.png" group-title="BRASIL", SBT INTERIOR
-http://srv3.zoeweb.tv:1935/z133-live/stream/chunklist.m3u8
+https://srv-mc.sistemafloresta.com.br/sbt_live/tracks-v1a1/mono.m3u8?token=09742b57744517dc2aa7096147d268e0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ce8f1a9e2406d2acde94e2ac5d0f671.png" group-title="BRASIL", TV CIDADE VERDE
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd082a2640b45935b4d9fed13af5a966.png" group-title="BRASIL",TV DIFUSORA MA 10
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w1406949766.m3u8
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w2014811341.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png" group-title="BRASIL",RECORD NEWS
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="BRASIL", TV GUARA
@@ -625,8 +623,10 @@ https://srv2.zcast.com.br/alvoradasat/alvoradasat/playlist.m3u8
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f188adb3d067eaa7c709d51391e730f7.jpg" group-title="BRASIL",TV VILA VELHA
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pa.srvsite.com/arquivos/5623/cabecalho-5623-20200506115453.png" group-title="BRASIL",TV ASSU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BvcF0F.png" group-title="BRASIL",TV ASSU
 https://sam.bitstreaming.info:1936/8106/8106/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-5JFwkUwDH7k/XLk8r0YkTjI/AAAAAAAACBk/UQc9ZHpI8s0dAK2POt6f4HWp7_EkiphEgCK4BGAYYCw/s1600/TV%2BPRECABURA%2BNOVA%2BROTULO%2Bwebtv.png" group-title="BRASIL",TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b29d303934d3e46f27e52a55157edc23.gif" group-title="BRASIL",TV FLORIPA
 http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16aacf1687224d28a419b83349ccc0b7.jpg" group-title="BRASIL",FLORIPA TV
@@ -719,6 +719,8 @@ https://5eaa6849d0971.streamlock.net/radiogospeltv/radiogospeltv/playlist.m3u8
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/baa975c63dd48c691ea812753445ad85.jpg" group-title="RELIGIOSO",TV CACHOEIRA
 http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/90921bf99063e1f4e55c6729ffee43d9.png" group-title="RELIGIOSO",BOAS NOVAS
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e36e41c32123ed0b12dfdef0ff75875.jpg" group-title="RELIGIOSO",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="RELIGIOSO",REDE GOSPEL
