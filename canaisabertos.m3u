@@ -565,6 +565,8 @@ https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06cf4d59905aa1532681c36d507df4ec.png" group-title="BRASIL",TV REVISTA
 https://stmv1.srvif.com/tvrevista/tvrevista/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Sdgc_MJOxhU/X00eZRmA-QI/AAAAAAAAD_E/wERQgZnJB7gADhfQspe0CoDdwIUt_Ka0wCLcBGAsYHQ/s0/unnamed.jpg" group-title="BRASIL",TV NAZARENA
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/532e31767c73f49137e7377acdd22a72.png" group-title="BRASIL",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16002dce22903d5e61b3c0c311a59c02.jpg" group-title="BRASIL",NOVA TV FRANCA
