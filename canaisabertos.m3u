@@ -757,11 +757,11 @@ https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 https://5d23bdca513db.streamlock.net:443/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://br.trace.company/wp-content/uploads//2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="MUSICA",TRACE BRAZUCA
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/508e101c31ceb6b8efc95eb64c071e19.jpg" group-title="MUSICA",GOSPEL MUSIC TV
+#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/logoGMusicTVtela.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/508e101c31ceb6b8efc95eb64c071e19.jpg" group-title="MUSICA",GOSPEL MUSIC TV 2
+#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/logoGMusicTVtela.png" group-title="MUSICA",GOSPEL MUSIC TV 2
 https://stmv1.srvif.com/gmusic3/gmusic3/chunklist_w1281838577.m3u8
-#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/img-logo-topo.png" group-title="MUSICA",CHANNEL TEST
+#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/logoGMusicTVtela.png" group-title="MUSICA",GOSPEL MUSIC TV 3
 https://StmV6.srvstm.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="MUSICA", TV ESTADO
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
