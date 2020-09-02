@@ -401,7 +401,7 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playli
 https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=1478206888
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8a0efa0c88f5d3915f18a614edd5950.png" group-title="BRASIL", TV RIO NOVO
 https://stmv1.srvsite.com/novo/novo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9c203f1f691e8b8fe7c22d520d1759ac.png" group-title="BRASIL", REDE LIVE TV
+#EXTINF:-1 tvg-logo="http://ipgo.xyz/imagens/img-logo-topo.png" group-title="BRASIL", REDE LIVE TV
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692603/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="BRASIL", SUMMER TV
 http://tv01.logicahost.com.br:1935/summertv/summertv/playlist.m3u8
@@ -434,7 +434,7 @@ https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0cb3fc00ec2adfd013415da064c681bd.png" group-title="BRASIL", TV PORTAL MIDIA
 https://video01.kshost.com.br/portalmidia/portalmidia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aff07db61f3543036647a2ee7e21a528.jpg" group-title="BRASIL", TV MACEIO
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2152c0dc41934839bfa8002e0703e272.png" group-title="BRASIL", TV JAGUAR
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/13666d2ae7cb1537bd9eb4c8bcbfb818.png" group-title="BRASIL", TV INTERATIVA
