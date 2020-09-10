@@ -239,6 +239,8 @@ https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933
 https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45ffad7c9e49217ab2e38abcf37196bd.jpg" group-title="BRASIL",WEB TV NOVA PARAIBA
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4TpqEz3vE8Q/X1fdJyt5aBI/AAAAAAAADQU/JuiJbwoLcLIibhpjgW3YzHakpXYTzB3cQCPcBGAYYCw/s320/Screenshot_2020-09-08-16-20-27.png" group-title="BRASIL",WEB TV CASCAVEL
+https://5d2c98775bafe.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="BRASIL",TV MON
 https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
 uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
