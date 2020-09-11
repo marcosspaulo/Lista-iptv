@@ -11,8 +11,6 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",CENTRO AMERICA
-https://live.video.globo.com/d/nl/s/hls-tvca/playlist.m3u8?h=0401599817374309832368715998208558964973557yxZxpJa4Ghig-q8mGWwieQ&k=html5&a=A&u=
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06738f892b030766e23561716f330734.png" group-title="BRASIL",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="BRASIL",TV CULTURA
@@ -854,8 +852,6 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9512bacf6f14cf9e6a45dc35587fa12e.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lollykidstv.com/wp-content/uploads/2019/12/logo.png" group-title="MUSICA",LOLLY KIDS
-https://103.mimyunimediagroup.com/LollyKids/LollyKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/298052f7d0c144e82b2750ad55289082.png" group-title="MUSICA",TERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.melody.tv/bundles/app/images/logo/logo-melody-afrique.png" group-title="MUSICA",MELODY
