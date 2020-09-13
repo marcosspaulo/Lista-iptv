@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 09/09/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 13/09/2020
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
@@ -177,7 +177,7 @@ https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
 https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ee125aec08a755820f95505820d3119.jpg" group-title="BRASIL",CANAL DA PECUARIA
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/6934/cabecalho-6934-20190715183518.png" group-title="BRASIL",TV RIO MADEIRA
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ccf6e7c8a1cd21165ad355cd2bc6d58c.png" group-title="BRASIL",TV RIO MADEIRA
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6c569d857146d63dac519c477303c71f.png" group-title="BRASIL", IMPERIAL TV
 https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
@@ -211,6 +211,8 @@ https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT SHOW
+https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06cf4d59905aa1532681c36d507df4ec.png" group-title="BRASIL",TV REVISTA
 https://stmv1.srvif.com/tvrevista/tvrevista/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="BRASIL", TV ARACATI
@@ -793,11 +795,9 @@ http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessioni
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc572d903c8a600d3303ba1917ae0c82.jpg" group-title="MUSICA",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42ebefef61336289c551dd0c27c063f5.png" group-title="MUSICA", ALX TV
-https://srv2.zcast.com.br/alxtv/alxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="MUSICA",TV RECON SAT SHOW
-https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
+https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA", CDTV
-https://srv2.zcast.com.br/cdtv/cdtv/playlist.m3u8
+http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a2f6d2e1222f1be5507bf3639cae337.jpg" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d96d5f7cae73793f08a7b18b8302511b.png" group-title="MUSICA",ROCK TV
