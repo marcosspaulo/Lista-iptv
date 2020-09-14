@@ -9,12 +9,13 @@ http://0.0.0.0
 http://0.0.0.0
 
 
+
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo-600x400.jpg" group-title="BRASIL",A FAZENDA 12
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06738f892b030766e23561716f330734.png" group-title="BRASIL",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo-600x400.jpg" group-title="BRASIL",A FAZENDA 12
-https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="BRASIL",TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21c152376b565ae9222c0379c3a00fe.png" group-title="BRASIL",TV MAIS NEWS
