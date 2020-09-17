@@ -88,13 +88,13 @@ http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
 http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c90a98e507f257c578d8bdf6973556d.png" group-title="BRASIL",FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/FQ7YRFZ.png" group-title="BRASIL",UPF TV
+#EXTINF:-1 tvg-logo="https://imgur.com/ioyCO1u.png" group-title="BRASIL",UPF TV
 https://video-rvd-df-2.rnp.br/live/ocp(t(FjWkT1VBv6g)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8A)m(0YtPtxqABNUIoYLL9KqxSQ)n(a(5vBT2g)s(17A)'a(T0vBLg)s(lMg)))s(s(fmY)b(w5znlm3zAc_bv_5DBJ3lOe0WSsTqbLphWGkA_nIlh4umGyDWBKtn4GOzPkYmJ4svwGigIz7yFYRBxwk5Dw)'s(VHg)b(aT1KKddm3fx1E86LO_ZeIhVdR1-4vsoSaXe_oYezHNcTCMQfaBg2GNpxuaVo419PvAFPZcjVRTy34i4XlSk-_S_Ftus_X9wiEPM4ePCW)'s(zRI)b(taQmBEVV))m(0))/9_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f24864c29a08f38070da2e3cb52b4e7.png" group-title="BRASIL",UnB TV
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(GM4TWWdkmoZ0mRYMOnT-CA)n(a(NKfpRw)s(Ruk)'a(1Bu5BA)s(ZdE)))s(s(fpg)b(S7DimC3lUpo38DRNGKciFoQElDNPyeEfXr7NNmoWbndF5g4Obp_AfmvmQaZWMe4pbDZoEnF35Tran6xvew)'s(Qt8)b(JQlGjieY5FwHRbD9A8my44a72oulXRIFcGi2v3Al7l0E4CQ3dvYI5wSTThGgrf8xRBy2PupbzDw6BRf0d7T-ie2B6E1YBBs8a7pK0fU4)'s(XwI)b(NzOo9s6Y))m(0))/unb_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ca781620fe7f3258d8e6d03bf0cd73c.jpg" group-title="BRASIL",TV ADO
 https://5d2c98775bafe.streamlock.net/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/mIxwwTA.png" group-title="BRASIL",TV UFOP
+#EXTINF:-1 tvg-logo="https://imgur.com/1Yykc21.png" group-title="BRASIL",TV UFOP
 https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(FiOULZ1BQyo)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(zbxyLIEWkcAMZQOEKdYC-w)n(a(8V1mxQ)s(SfI)'a(g22_MQ)s(0zc)))s(s(It4)b(VMj-PrftQ_Rx4W35QMqfAW_1dHFBJfj49ASwXOozx5-nfbEg59Xioc1P2ENe6Dt7Z1f1CDjrtRJmq0LkMw)'s(ZBo)b(ERA_34IZyXGfpK3QssN0FXZeLcr5_vurP27_eHQktgKaqpxHsJCbf-7pK76yA2zxm79qpxVqkqfgEIm187m8asYC1qkvSU8QP0F6q28B)'s(4aM)b(aPSdOdIv))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e5ad2bec939f6c2eb3de411b5ffba36f.jpg" group-title="BRASIL",TV SENADO
 http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
@@ -114,7 +114,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/19059fa71872709ecee1941951475bd3.png" group-title="BRASIL", TV COM CAXIAS
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/1URCeCT.png" group-title="BRASIL", RECORD TV
+#EXTINF:-1 tvg-logo="https://imgur.com/VVd00xq.png" group-title="BRASIL", RECORD TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f68b0165575c8dbc6d81421b17caa8af.jpg" group-title="BRASIL",SIC TV
 https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
@@ -172,7 +172,7 @@ https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
 https://stmv.voxtvhd.com.br/redemanchetetv/redemanchetetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="BRASIL",CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/LK3Fd0H.png" group-title="BRASIL",TV SERTAO PETROLINA
+#EXTINF:-1 tvg-logo="https://imgur.com/dairKt4.png" group-title="BRASIL",TV SERTAO PETROLINA
 https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
@@ -194,7 +194,7 @@ https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f7c626163aae1e10afd2e22abec5c8a.png" group-title="BRASIL",TV POMBAL
 https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/zmMoF4h.png" group-title="BRASIL",TV OFFLINE
+#EXTINF:-1 tvg-logo="https://imgur.com/6Vh8UK3.png" group-title="BRASIL",TV OFFLINE
 https://tna5.bozztv.com/offline/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
@@ -218,7 +218,7 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4b6564163a16dd5fd1b28b78cd97b989.jpg" group-title="BRASIL", TV GERAIS
 https://cdn-hfpublicidade1.ciclano.io:1443/hfpublicidade1/hfpublicidade1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/V2KGJAm.png" group-title="BRASIL", PPTV
+#EXTINF:-1 tvg-logo="https://imgur.com/hQXf8MI.png" group-title="BRASIL", PPTV
 https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99952bc10e0b9a0eeb6f47cbf054a87e.png" group-title="BRASIL",TV MAIS BRASIL
 https://sam.bitstreaming.info:1936/8126/8126/playlist-480P.m3u8
@@ -565,7 +565,7 @@ http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3a1cbce6fe83048506495d1e3b30d8d8.png" group-title="BRASIL",TVC 16
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/9UnG2lm.png" group-title="BRASIL",TV TRIBUNA LIVRE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r93vlg3.png" group-title="BRASIL",TV TRIBUNA LIVRE
 https://5abdf4edae5bf.streamlock.net/tribunalivretv/tribunalivretv/chunklist_w493172166.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="BRASIL",TV URUBURETAMA
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
