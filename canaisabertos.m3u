@@ -226,6 +226,8 @@ https://cdn-hfpublicidade1.ciclano.io:1443/hfpublicidade1/hfpublicidade1/playlis
 https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9c203aa8642788b412435d6b2ec0d3bf.png" group-title="BRASIL",TV NAZARENA
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT MEMORIA
+http://stmv1.srvstm.com/tvmemoria/tvmemoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="BRASIL",TV RECON SAT SHOW
@@ -505,7 +507,7 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 https://722787183.r.worldssl.net/722787183/_definst_/oestetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33cb8be22fbdd7fa8ef1a062f7f70465.jpg" group-title="BRASIL",STUDIO TV
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lOZoARA.png" group-title="BRASIL", 98 FM
+#EXTINF:-1 tvg-logo="https://imgur.com/BCQogpb.png" group-title="BRASIL", 98 FM
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/51e382b17592fb3aba4ad9e7d36deccf.png" group-title="BRASIL", IN TV
 http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/playlist.m3u8
@@ -662,7 +664,7 @@ http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16aacf1687224d28a419b83349ccc0b7.jpg" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df7c0177a0c044fe0eefb3016a3ff52a.jpg" group-title="BRASIL",CANAL RURAL
-https://content.jwplatform.com/manifests/9lqNmgTv.m3u8
+https://5f1838950758d.streamlock.net/live/aovivo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="BRASIL",CANAL DO CRIADOR
 https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d714351c9e4c116bbf7f10dee3b287a4.jpg" group-title="BRASIL",CANAL DO BOI
