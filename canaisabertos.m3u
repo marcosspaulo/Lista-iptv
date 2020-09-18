@@ -88,7 +88,7 @@ http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
 http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c90a98e507f257c578d8bdf6973556d.png" group-title="BRASIL",FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ioyCO1u.png" group-title="BRASIL",UPF TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45f8ba2c7202bf6ef4c68381dc80d347.jpg" group-title="BRASIL",UPF TV
 https://video-rvd-df-2.rnp.br/live/ocp(t(FjWkT1VBv6g)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8A)m(0YtPtxqABNUIoYLL9KqxSQ)n(a(5vBT2g)s(17A)'a(T0vBLg)s(lMg)))s(s(fmY)b(w5znlm3zAc_bv_5DBJ3lOe0WSsTqbLphWGkA_nIlh4umGyDWBKtn4GOzPkYmJ4svwGigIz7yFYRBxwk5Dw)'s(VHg)b(aT1KKddm3fx1E86LO_ZeIhVdR1-4vsoSaXe_oYezHNcTCMQfaBg2GNpxuaVo419PvAFPZcjVRTy34i4XlSk-_S_Ftus_X9wiEPM4ePCW)'s(zRI)b(taQmBEVV))m(0))/9_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f24864c29a08f38070da2e3cb52b4e7.png" group-title="BRASIL",UnB TV
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(GM4TWWdkmoZ0mRYMOnT-CA)n(a(NKfpRw)s(Ruk)'a(1Bu5BA)s(ZdE)))s(s(fpg)b(S7DimC3lUpo38DRNGKciFoQElDNPyeEfXr7NNmoWbndF5g4Obp_AfmvmQaZWMe4pbDZoEnF35Tran6xvew)'s(Qt8)b(JQlGjieY5FwHRbD9A8my44a72oulXRIFcGi2v3Al7l0E4CQ3dvYI5wSTThGgrf8xRBy2PupbzDw6BRf0d7T-ie2B6E1YBBs8a7pK0fU4)'s(XwI)b(NzOo9s6Y))m(0))/unb_index.m3u8
@@ -114,7 +114,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/19059fa71872709ecee1941951475bd3.png" group-title="BRASIL", TV COM CAXIAS
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VVd00xq.png" group-title="BRASIL", RECORD TV
+#EXTINF:-1 tvg-logo="https://imgur.com/24K6H34.png" group-title="BRASIL", RECORD TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f68b0165575c8dbc6d81421b17caa8af.jpg" group-title="BRASIL",SIC TV
 https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
@@ -413,9 +413,9 @@ https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.
 https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1327d7b50886271ac5fd0b4a02cff0b5.png" group-title="BRASIL", RWCG WEB TV
 https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2051078470.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XjVhR4o.png" group-title="BRASIL", REDE UTV
+#EXTINF:-1 tvg-logo="https://imgur.com/UeWEIGT.png" group-title="BRASIL", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/tvomindare.tv.br/images/logo/logo.png" group-title="BRASIL", TV OMINDARE
+#EXTINF:-1 tvg-logo="https://imgur.com/tdrTZwU.png" group-title="BRASIL", TV OMINDARE
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90egB7I.png" group-title="BRASIL", REDE ESTACAO 26
 https://novo.bitstreaming.info/redeestacao26tv/redeestacao26tv/chunklist_w1483333240.m3u8
@@ -577,7 +577,7 @@ https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/390b367164c0eb9570224a0c63084581.jpg" group-title="BRASIL",TV SULANCA NEWS
 http://srv4.zcast.com.br/tvsulancanews/tvsulancanews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pa.srvsite.com/arquivos/5829/logo_face-5829-20200616113720.png" group-title="BRASIL", RESENDE WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/4ZsoKeZ.png" group-title="BRASIL", RESENDE WEB TV
 https://srv4.zcast.com.br/mateus3690/mateus3690/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/74eeb2765564dd79d85e4d9c11431a87.jpg" group-title="BRASIL", CAMOCIM WEB TV
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
