@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 19/09/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 20/09/2020
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
@@ -268,6 +268,8 @@ https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q2QcF8f.png" group-title="BRASIL",WEB TV CASCAVEL
 https://5d2c98775bafe.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MR6UAi0.png" group-title="BRASIL",CONECTA MAIS WEB TV
+http://189.14.233.254:1935/WebTV/WebTV.stream/playlist-480P.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="BRASIL",TV MON
 https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
 uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
@@ -311,6 +313,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bbcb82ee8d099a445d3721fdce02c6c.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://5abdf4edae5bf.streamlock.net/tribunaregionaltvwebtv/tribunaregionaltvwebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D4MlQGQ.jpg" group-title="BRASIL",WEB TV OURO VERDE
+https://5d82644094cc0.streamlock.net:443/ouroverdetv/ouroverdetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ecb6638b7e7c4c298b54b6bbe8b2fe7.jpg" group-title="BRASIL",WEB TV CASTELO DO PIAUI
 https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49d8cf1ee3903082760d9312f3477fb0.png" group-title="BRASIL", WTJ TV MINAS
@@ -329,6 +333,8 @@ https://thathi.akamaized.net/edge/live_d4f1bcf0e51f11e984d8672fa9a5f10a/playlist
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RY29dM5.png" group-title="BRASIL",CAPITAL RIO WEB TV
+https://stmv4.srvstm.com/carlosalberto6657/carlosalberto6657/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f53f92b9e96ec40a8c143407e6ed13a.jpg" group-title="BRASIL",REDE RCT
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bce5c4a7dc9ab7ea89acdfa1bde11307.jpg" group-title="BRASIL",TV METROPOLE NEWS
@@ -411,6 +417,8 @@ https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1659524698.m3u
 https://cdn.jmvstream.com/w/AVJ-9081/playlist/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c70c8f8099730a84bf271395381692e.png" group-title="BRASIL",SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mTTW4zN.png" group-title="BRASIL",TV MAIS NORDESTE
+https://sam.bitstreaming.info:1936/tvmaisnordestetv/tvmaisnordestetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="BRASIL",TV STA CECILIA
 https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e61da52fcb3717b09b8c024422b761a9.jpg" group-title="BRASIL",CANAL 7
