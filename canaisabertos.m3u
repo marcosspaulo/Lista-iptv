@@ -305,17 +305,17 @@ http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="BRASIL",CLASSIQUE TV 3
 https://stmv1.srvif.com/classiquetv/classiquetv/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7acc2ed352b08126b259ca9f48c25fa.jpg" group-title="BRASIL",CINE TRIANON TV
+#EXTINF:-1 tvg-logo="https://imgur.com/ey3mtZS.png" group-title="BRASIL",CINE TRIANON TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30e217cb2a7dce614cf814985184492.png" group-title="BRASIL", TV QUE DEMAIS
+#EXTINF:-1 tvg-logo="https://imgur.com/Ul98AFT.png" group-title="BRASIL", TV QUE DEMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/14d113d7291bc5c93a1ffe7ba86f460f.jpg" group-title="BRASIL",WEB TV PROGRESSO
+#EXTINF:-1 tvg-logo="https://imgur.com/qGD5nts.png" group-title="BRASIL",WEB TV PROGRESSO
 https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bbcb82ee8d099a445d3721fdce02c6c.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/AUa5qQl.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://5abdf4edae5bf.streamlock.net/tribunaregionaltvwebtv/tribunaregionaltvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D4MlQGQ.jpg" group-title="BRASIL",WEB TV OURO VERDE
 https://5d82644094cc0.streamlock.net:443/ouroverdetv/ouroverdetv/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ecb6638b7e7c4c298b54b6bbe8b2fe7.jpg" group-title="BRASIL",WEB TV CASTELO DO PIAUI
+#EXTINF:-1 tvg-logo="https://imgur.com/HMQgVim.png" group-title="BRASIL",WEB TV CASTELO DO PIAUI
 https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49d8cf1ee3903082760d9312f3477fb0.png" group-title="BRASIL", WTJ TV MINAS
 https://livefocamundo.com:8081/8200/index.m3u8
