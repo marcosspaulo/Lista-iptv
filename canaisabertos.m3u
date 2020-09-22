@@ -10,7 +10,7 @@ http://0.0.0.0
 
 
 
-#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/21085858/A-fazenda-logo-600x400.jpg" group-title="BRASIL",A FAZENDA 12
+#EXTINF:-1 tvg-logo="https://imgur.com/P9EF9dx.png" group-title="BRASIL",A FAZENDA 12
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
@@ -266,7 +266,7 @@ https://flash1.hospedemax.com.br:8012/tvwebfrutal/live.m3u8
 https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FwC2Qnj.png" group-title="BRASIL",WEB TV NOVA PARAIBA
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Q2QcF8f.png" group-title="BRASIL",WEB TV CASCAVEL
+#EXTINF:-1 tvg-logo="https://imgur.com/Tkax0Sd.png" group-title="BRASIL",WEB TV CASCAVEL
 https://5d2c98775bafe.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MR6UAi0.png" group-title="BRASIL",CONECTA MAIS WEB TV
 http://189.14.233.254:1935/WebTV/WebTV.stream/playlist-480P.m3u8
