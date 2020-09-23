@@ -655,41 +655,41 @@ https://hls.brasilstream.com.br/live/can/can/mono.m3u8
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jibd8vo.png" group-title="BRASIL",TV MASTER PB
 http://209.126.127.101:1935/tvmaster/_definst_/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/406677e12cc02775a2bffe9a7f7ef0fb.png" group-title="BRASIL",NGP TV
+#EXTINF:-1 tvg-logo="https://imgur.com/GA4p0wz.png" group-title="BRASIL",NGP TV
 https://5a0c3936c25c8.streamlock.net/8278/8278/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4234e26163649dda05e7af9a2a36b164.png" group-title="BRASIL",CANAL OITO
+#EXTINF:-1 tvg-logo="https://imgur.com/PR9YodE.png" group-title="BRASIL",CANAL OITO
 https://serv2.videovox.pw/matheus9312/matheus9312/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title="BRASIL",CANAL 10 FOZ
+#EXTINF:-1 tvg-logo="https://imgur.com/htDszcv.png" group-title="BRASIL",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa03973dc0d9b0d1853d9df5a9ce7e37.jpg" group-title="BRASIL",TV COGNOPOLIS
+#EXTINF:-1 tvg-logo="https://imgur.com/dt4yo5l.png" group-title="BRASIL",TV COGNOPOLIS
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df1ae002c034f31794a7b525b5c884b2.jpg" group-title="BRASIL",TV ALVORADA SAT
+#EXTINF:-1 tvg-logo="https://imgur.com/iQiq0s5.png" group-title="BRASIL",TV ALVORADA SAT
 https://srv2.zcast.com.br/alvoradasat/alvoradasat/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c53f22aed14e785d41864440f0f0217.jpg" group-title="BRASIL", CANAL 25 JUNDIAI
+#EXTINF:-1 tvg-logo="https://imgur.com/GgH6F4t.png" group-title="BRASIL", CANAL 25 JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f188adb3d067eaa7c709d51391e730f7.jpg" group-title="BRASIL",TV VILA VELHA
+#EXTINF:-1 tvg-logo="https://imgur.com/5fGa3Ct.png" group-title="BRASIL",TV VILA VELHA
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3BvcF0F.png" group-title="BRASIL",TV ASSU
 https://sam.bitstreaming.info:1936/8106/8106/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e60182cb891f5a4ad9e1b7c78572269e.jpg" group-title="BRASIL",TV PRECABURA
+#EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="BRASIL",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16aacf1687224d28a419b83349ccc0b7.jpg" group-title="BRASIL",FLORIPA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df7c0177a0c044fe0eefb3016a3ff52a.jpg" group-title="BRASIL",CANAL RURAL
+#EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="BRASIL",CANAL RURAL
 https://5f1838950758d.streamlock.net/live/aovivo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="BRASIL",CANAL DO CRIADOR
 https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d714351c9e4c116bbf7f10dee3b287a4.jpg" group-title="BRASIL",CANAL DO BOI
+#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="BRASIL",CANAL DO BOI
 https://origin-02.nxplay.com.br/CANAL_DO_BOI/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2307ec9d5751b3152f8cb9db472414cd.jpg" group-title="BRASIL",AGRO BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="BRASIL",AGRO BRASIL
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d06479fe8f0dccd76c2a1d7e025f718.png" group-title="BRASIL", TV JORNAL LIMEIRA
+#EXTINF:-1 tvg-logo="https://imgur.com/9n7zRBc.png" group-title="BRASIL", TV JORNAL LIMEIRA
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1cb6994e4ba41fffa13084194129e710.png" group-title="BRASIL",SGTV
+#EXTINF:-1 tvg-logo="https://imgur.com/3Uk2zwp.png" group-title="BRASIL",SGTV
 https://stmv6.srvstm.com/hudsondemeloborges1793/hudsondemeloborges1793/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cd8139df8f021ebba1159d6683428777.png" group-title="BRASIL",STZ TV
+#EXTINF:-1 tvg-logo="https://imgur.com/0BTXlx8.png" group-title="BRASIL",STZ TV
 http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5da6ab4e1fd0705a19bfe1fdeee3520d.png" group-title="BRASIL",TV PLAN
+#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL",TV PLAN
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a486e39c63a2ba11c6088ee32c87e7c.jpg" group-title="ESPORTES", BAND SPORTS
 https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1624254750.m3u8
