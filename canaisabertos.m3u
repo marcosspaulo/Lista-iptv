@@ -595,21 +595,21 @@ https://cdn.jmvstream.com/w/LVW-8512/LVW8512_qGSZbhNLAM/playlist.m3u8
 https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eCqtleM.png" group-title="BRASIL",TV ESCOLA MS 2
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/390b367164c0eb9570224a0c63084581.jpg" group-title="BRASIL",TV SULANCA NEWS
+#EXTINF:-1 tvg-logo="https://imgur.com/qT93u6O.png" group-title="BRASIL",TV SULANCA NEWS
 http://srv4.zcast.com.br/tvsulancanews/tvsulancanews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4ZsoKeZ.png" group-title="BRASIL", RESENDE WEB TV
 https://srv4.zcast.com.br/mateus3690/mateus3690/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/74eeb2765564dd79d85e4d9c11431a87.jpg" group-title="BRASIL", CAMOCIM WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/3tLkoPl.png" group-title="BRASIL", CAMOCIM WEB TV
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e53971e2790e68a7b2737b1be4ca7a70.jpg" group-title="BRASIL", JACOABA WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/RMiZhLp.png" group-title="BRASIL", JACOABA WEB TV
 http://tv01.logicahost.com.br:1935/joacaba/_definst_/joacaba/chunklist_w1667298716.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg" group-title="BRASIL", VIVA WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/gCfPmxs.png" group-title="BRASIL", VIVA WEB TV
 http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6621fb73764f04632ce1a19afed0f5a.jpg" group-title="BRASIL", ESPIA WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/ggfhreU.png" group-title="BRASIL", ESPIA WEB TV
 https://cdn.jmvstream.com/w/AVJ-9137/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d69a615bb7fac8e127dfaa72784d0417.jpg" group-title="BRASIL",WEB TV MACEIO
+#EXTINF:-1 tvg-logo="https://imgur.com/kCy7RWq.png" group-title="BRASIL",WEB TV MACEIO
 https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ecc3a95fe1e42ce67249367f12c38786.png" group-title="BRASIL", WEB TV MINAS
+#EXTINF:-1 tvg-logo="https://imgur.com/SYZEfo8.png" group-title="BRASIL", WEB TV MINAS
 http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c20af93a6d5148e803269d78e0d90512.png" group-title="BRASIL", WEB TV UAI
 https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
