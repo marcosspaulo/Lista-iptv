@@ -827,29 +827,29 @@ http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 https://cdn-kassem-1574.ciclano.io:1443/kassem-1574/kassem-1574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NiGfJmG.png" group-title="MUSICA",TV IMAGEM
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc572d903c8a600d3303ba1917ae0c82.jpg" group-title="MUSICA",REDE RC
+#EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42ebefef61336289c551dd0c27c063f5.png" group-title="MUSICA", ALX TV
+#EXTINF:-1 tvg-logo="https://imgur.com/n8lt2Qt.png" group-title="MUSICA", ALX TV
 https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="MUSICA", CDTV
+#EXTINF:-1 tvg-logo="https://imgur.com/kAo9srR.png" group-title="MUSICA", CDTV
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a2f6d2e1222f1be5507bf3639cae337.jpg" group-title="MUSICA", TV ALVORADA SERTANEJA
+#EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d96d5f7cae73793f08a7b18b8302511b.png" group-title="MUSICA",ROCK TV
+#EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c65bafaced938497a2a4caf0306c9d3.jpg" group-title="MUSICA",RETRO MUSIC TV
+#EXTINF:-1 tvg-logo="https://imgur.com/NaeO3cD.png" group-title="MUSICA",RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="MUSICA",RETRO PLUS TV
+#EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c128d72377e728f2a8bda83f7bdb5d26.jpg" group-title="MUSICA", OTTO 8 FM TV
+#EXTINF:-1 tvg-logo="https://imgur.com/1OPiYPv.png" group-title="MUSICA", OTTO 8 FM TV
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d431b1ede93f4917099cc19c2b747e7f.jpg" group-title="MUSICA",GO RTV
+#EXTINF:-1 tvg-logo="https://imgur.com/Jr0O3cn.png" group-title="MUSICA",GO RTV
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a40aa246447dc02d1c71b6bf437506d.png" group-title="MUSICA", RADIO CAPITAL TIVU
+#EXTINF:-1 tvg-logo="https://imgur.com/Dt8SXxy.png" group-title="MUSICA", RADIO CAPITAL TIVU
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cf95dd48e86de733117e1b8bb93f6e13.jpg" group-title="MUSICA", THE RETRO CHANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="MUSICA", THE RETRO CHANNEL
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e1e82763551c3e069665e6031dcf8961.png" group-title="MUSICA",RADIO 21
+#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="MUSICA",RADIO 21
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8686a630362f5b20fb1b670a9cfd8559.png" group-title="MUSICA",MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
