@@ -823,7 +823,7 @@ https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
 http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/trFs5A3.png" group-title="MUSICA", RTL SANTOS
+#EXTINF:-1 tvg-logo="https://imgur.com/mqIunic.png" group-title="MUSICA", RTL SANTOS
 https://cdn-kassem-1574.ciclano.io:1443/kassem-1574/kassem-1574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NiGfJmG.png" group-title="MUSICA",TV IMAGEM
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
@@ -869,27 +869,27 @@ https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="MUSICA",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c72cf87f92c9aa2260bf3ea9cc5b0f9e.png" group-title="MUSICA",RU TV
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="MUSICA",RU TV
 https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4813576044802a9f829a8884344af7d.png" group-title="MUSICA",POWER TV
+#EXTINF:-1 tvg-logo="https://imgur.com/3OyBJ6Z.png" group-title="MUSICA",POWER TV
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c96f9ace23f67b9e02fa0ec30dd2f756.png" group-title="MUSICA",TOP LATINO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/UOSivy7.png" group-title="MUSICA",TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/954cf7cceb9a55def71863835fe9546e.png" group-title="MUSICA", LFM TV
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="MUSICA", LFM TV
 https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png" group-title="MUSICA",SEXY KPOP TV
+#EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA",SEXY KPOP TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5081ee01b6a6d0b57910baf19696da0a.png" group-title="MUSICA",RADIO M20
+#EXTINF:-1 tvg-logo="https://imgur.com/nXFc4Ji.png" group-title="MUSICA",RADIO M20
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/417ee46eba4fe6161a809d808fa8e053.png" group-title="MUSICA",PORTAL FOXMIX
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="MUSICA",PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4df51fdae9de2b92f951aa1a47de7365.jpg" group-title="MUSICA",RADIO ITALIA VISION
+#EXTINF:-1 tvg-logo="https://imgur.com/plucifh.png" group-title="MUSICA",RADIO ITALIA VISION
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9512bacf6f14cf9e6a45dc35587fa12e.png" group-title="MUSICA",MUSIC TOP
+#EXTINF:-1 tvg-logo="https://imgur.com/XZvXhUo.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/298052f7d0c144e82b2750ad55289082.png" group-title="MUSICA",TERRA MIA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.melody.tv/bundles/app/images/logo/logo-melody-afrique.png" group-title="MUSICA",MELODY
+#EXTINF:-1 tvg-logo="https://imgur.com/zVIkQ9q.png" group-title="MUSICA",MELODY
 https://str81.creacast.com/telemelody/b0f3b14b58c3a100a9747cfb6313ada1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/08df297672f9e283f75c90e79eddedbf." group-title="MUSICA",CLASSIC ARTS SHOWCASE
+#EXTINF:-1 tvg-logo="https://imgur.com/oiIDKRT.png" group-title="MUSICA",CLASSIC ARTS SHOWCASE
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
