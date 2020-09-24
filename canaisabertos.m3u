@@ -305,8 +305,6 @@ http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/s56HgN6.png" group-title="BRASIL",CLASSIQUE TV 2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/s56HgN6.png" group-title="BRASIL",CLASSIQUE TV 3
-https://stmv1.srvif.com/classiquetv/classiquetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/84twyOQ.png" group-title="BRASIL",CINE TRIANON TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS
@@ -633,7 +631,7 @@ https://5d2c98775bafe.streamlock.net/8156/8156/playlist-480p.m3u8
 https://5eaa6849d0971.streamlock.net:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BTNfZEl.png" group-title="BRASIL",REDE WEB TV
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/y5lrpcf.png" group-title="BRASIL",WEB TV FRONTEIRA
+#EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
@@ -691,7 +689,7 @@ https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 https://origin-02.nxplay.com.br/CANAL_DO_BOI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="BRASIL",AGRO BRASIL
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9n7zRBc.png" group-title="BRASIL", TV JORNAL LIMEIRA
+#EXTINF:-1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3Uk2zwp.png" group-title="BRASIL",SGTV
 https://stmv6.srvstm.com/hudsondemeloborges1793/hudsondemeloborges1793/playlist.m3u8
@@ -822,7 +820,7 @@ https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
-http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mqIunic.png" group-title="MUSICA", RTL SANTOS
 https://cdn-kassem-1574.ciclano.io:1443/kassem-1574/kassem-1574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6a0GbC9.png" group-title="MUSICA",TV MOL
@@ -873,7 +871,7 @@ http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="MUSICA",RU TV
 https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3OyBJ6Z.png" group-title="MUSICA",POWER TV
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="MUSICA",POWER TV
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UOSivy7.png" group-title="MUSICA",TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist-480p.m3u8
