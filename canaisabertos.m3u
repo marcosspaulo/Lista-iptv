@@ -785,25 +785,25 @@ https://StmV1.painelvox.top/siteiaptd/siteiaptd/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/meNeQE6.png" group-title="RELIGIOSO",MKK WEB TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3129e921bd7145bec898f321087d0770.jpg" group-title="RELIGIOSO",TV RECON SAT GOSPEL
+#EXTINF:-1 tvg-logo="https://imgur.com/tXmcuEg.png" group-title="RELIGIOSO",TV RECON SAT GOSPEL
 https://stmv1.srvif.com/reconsatgospel/reconsatgospel/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="RELIGIOSO",TV NOVO MILENIO
+#EXTINF:-1 tvg-logo="https://imgur.com/fuzWTZu.png" group-title="RELIGIOSO",TV NOVO MILENIO
 http://wz5.dnip.com.br/mileniotv/mileniotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6c69cd28e2969b2133e80b5921c3be1.jpg" group-title="RELIGIOSO",TV VERDADE
+#EXTINF:-1 tvg-logo="https://imgur.com/GNQmHzY.png" group-title="RELIGIOSO",TV VERDADE
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b309bcd47506d9139919501ff2ba595c.png" group-title="RELIGIOSO",TV MARAJOARA
+#EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="RELIGIOSO",TV MARAJOARA
 http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be908a654dd4c6705a0d6d663c4e853e.png" group-title="RELIGIOSO", KURIAKOS TV
+#EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="RELIGIOSO", KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png" group-title="RELIGIOSO", KURIAKOS KIDS
+#EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO", KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8386301562490817220f885286d197db.png" group-title="RELIGIOSO",TV POSITIVA GOSPEL
+#EXTINF:-1 tvg-logo="https://imgur.com/QRinXC9.png" group-title="RELIGIOSO",TV POSITIVA GOSPEL
 https://srv1.zcast.com.br/7014/7014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/030fpCq.png" group-title="RELIGIOSO",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53d91293b5c5cef84ac28e3894b4a20e.png" group-title="RELIGIOSO", SEMEAR TV
+#EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://5abdf4edae5bf.streamlock.net/semeartvstation/semeartvstation/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0579c7a5ad75d73104244131bfb40921.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
+#EXTINF:-1 tvg-logo="https://imgur.com/m1HP8GW.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
 https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b10da2b15bc6334e02544c206dc08d58.jpg" group-title="MUSICA",KISS TV
 https://5d23bdca513db.streamlock.net:443/8016/8016/playlist.m3u8
