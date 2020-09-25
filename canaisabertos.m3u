@@ -152,7 +152,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LnHBLHu.png" group-title="BRASIL", REDE BRASIL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/y0IX9nF.png" group-title="BRASIL", REDE BRASIL TV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tup10fP.png" group-title="BRASIL",AMTV MAIS
 https://5eaa6849d0971.streamlock.net/8098/8098/playlist.m3u8
@@ -230,8 +230,6 @@ https://cdn-hfpublicidade1.ciclano.io:1443/hfpublicidade1/hfpublicidade1/playlis
 https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fhzKvG6.png" group-title="BRASIL",TV NAZARENA
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OT8OzxT.png" group-title="BRASIL",TV RECON SAT MEMORIA
-http://stmv1.srvstm.com/tvmemoria/tvmemoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OT8OzxT.png" group-title="BRASIL",TV RECON SAT
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OzNkOSk.png" group-title="BRASIL",TV RECON SAT SHOW
@@ -375,7 +373,7 @@ https://livefocamundo.com:8081/8184/tracks-v1a1/mono.m3u8
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/493q2l2.png" group-title="BRASIL", TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3etqO6k.png" group-title="BRASIL", SUL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/KtwsBjH.png" group-title="BRASIL", SUL TV
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="BRASIL", TV CANDIDES
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
@@ -769,7 +767,7 @@ http://canalpromessas.com.br/playlist.m3u8
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?da5811e7f0f6d2de95058aaa4c189620
 #EXTINF:-1 tvg-logo="https://imgur.com/hyNIGqK.png" group-title="RELIGIOSO",TV REINO
 https://livefocamundo.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXL0gQM.png" group-title="RELIGIOSO",REDE CNT
+#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
 https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
@@ -809,10 +807,6 @@ https://5d23bdca513db.streamlock.net:443/8016/8016/playlist.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV 2
-https://stmv1.srvif.com/gmusic3/gmusic3/chunklist_w1281838577.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV 3
-https://StmV6.srvstm.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yeearVp.png" group-title="MUSICA", TV ESTADO
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/R7bLhYI.png" group-title="MUSICA", TOP TV
