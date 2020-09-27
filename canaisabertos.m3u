@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 20/09/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 27/09/2020
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
@@ -30,7 +30,7 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0ooEVdy.png" group-title="BRASIL",REDE NOVA NORDESTE
 https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9mcRIzQ.png" group-title="BRASIL",TV BAIANA
+#EXTINF:-1 tvg-logo="https://imgur.com/m3ktEvA.png" group-title="BRASIL",TV BAIANA
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hb2hAZq.png" group-title="BRASIL",TV FUNTELPA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
@@ -467,6 +467,8 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/playlist.m3u8
 http://209.126.127.101:1935/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DQIu4yZ.png" group-title="BRASIL", FUN CANAL
 https://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="BRASIL",FALA LITORAL WEB TV
+https://5abdf4edae5bf.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k0RJ6lJ.png" group-title="BRASIL", TV LIBERDADE ONLINE
 https://5c483b9d1019c.streamlock.net:443/8238/8238/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vI3Vmw8.png" group-title="BRASIL", TV LIBERDADE
@@ -539,7 +541,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 https://video.unesp.br/live/indoor.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jtmmPhA.png" group-title="BRASIL",TV URBANA
 https://livefocamundo.com:8081/8166/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Vv9DyOh.png" group-title="BRASIL", BAH TV 
+#EXTINF:-1 tvg-logo="https://imgur.com/Iw8f5Ft.png" group-title="BRASIL", BAH TV 
 https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV
 https://ott.epgbr.com.br:8443/live/urbantv/playlist.m3u8
@@ -587,6 +589,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m
 https://5abdf4edae5bf.streamlock.net/tribunalivretv/tribunalivretv/chunklist_w493172166.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUZ88aD.png" group-title="BRASIL",TV URUBURETAMA
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WdODuFn.png" group-title="BRASIL",TV LIDER DO VALE
+https://5d2c98775bafe.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5b1en3l.png" group-title="BRASIL",TV PITAGUARY
 https://5d82644094cc0.streamlock.net/8036/8036/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nmI1IXD.png" group-title="BRASIL", MAM NEWS WEB TV
@@ -627,6 +631,10 @@ https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/playlist
 https://5d2c98775bafe.streamlock.net/8156/8156/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a03JekB.png" group-title="BRASIL",WEB TV CAPUXU
 https://5eaa6849d0971.streamlock.net:443/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/c5qBpzU.png" group-title="BRASIL", TV PLANETA WEB
+https://novo.bitstreaming.info:1936/8128/8128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2mEq7Yn.png" group-title="BRASIL", WEB TV URUCANIA
+https://srv4.zcast.com.br/joanes6132/joanes6132/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BTNfZEl.png" group-title="BRASIL",REDE WEB TV
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA
