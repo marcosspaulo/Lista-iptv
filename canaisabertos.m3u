@@ -603,8 +603,6 @@ https://cdn.jmvstream.com/w/LVW-8512/LVW8512_qGSZbhNLAM/playlist.m3u8
 https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eCqtleM.png" group-title="BRASIL",TV ESCOLA MS 2
 https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qT93u6O.png" group-title="BRASIL",TV SULANCA NEWS
-http://srv4.zcast.com.br/tvsulancanews/tvsulancanews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0bHcWLr.png" group-title="BRASIL", RESENDE WEB TV
 https://srv4.zcast.com.br/mateus3690/mateus3690/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3tLkoPl.png" group-title="BRASIL", CAMOCIM WEB TV
@@ -635,8 +633,6 @@ https://5eaa6849d0971.streamlock.net:443/8012/8012/playlist.m3u8
 https://novo.bitstreaming.info:1936/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2mEq7Yn.png" group-title="BRASIL", WEB TV URUCANIA
 https://srv4.zcast.com.br/joanes6132/joanes6132/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BTNfZEl.png" group-title="BRASIL",REDE WEB TV
-https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
