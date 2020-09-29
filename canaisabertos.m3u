@@ -262,12 +262,8 @@ https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZEU0qP3.png" group-title="BRASIL",FRUTAL WEB TV
 https://flash1.hospedemax.com.br:8012/tvwebfrutal/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gjh4arf.png" group-title="BRASIL",WEB TV IMAGEM DE CAETANO
-https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FwC2Qnj.png" group-title="BRASIL",WEB TV NOVA PARAIBA
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Tkax0Sd.png" group-title="BRASIL",WEB TV CASCAVEL
-https://5d2c98775bafe.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MR6UAi0.png" group-title="BRASIL",CONECTA MAIS WEB TV
 http://189.14.233.254:1935/WebTV/WebTV.stream/playlist-480P.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL",TV MON
