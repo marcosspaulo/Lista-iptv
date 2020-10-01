@@ -91,7 +91,7 @@ http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL",FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yIeMaYl.png" group-title="BRASIL",UPF TV
-https://video-rvd-df-2.rnp.br/live/ocp(t(FjWkT1VBv6g)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8A)m(0YtPtxqABNUIoYLL9KqxSQ)n(a(5vBT2g)s(17A)'a(T0vBLg)s(lMg)))s(s(fmY)b(w5znlm3zAc_bv_5DBJ3lOe0WSsTqbLphWGkA_nIlh4umGyDWBKtn4GOzPkYmJ4svwGigIz7yFYRBxwk5Dw)'s(VHg)b(aT1KKddm3fx1E86LO_ZeIhVdR1-4vsoSaXe_oYezHNcTCMQfaBg2GNpxuaVo419PvAFPZcjVRTy34i4XlSk-_S_Ftus_X9wiEPM4ePCW)'s(zRI)b(taQmBEVV))m(0))/9_index.m3u8
+https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(Fjm5U8zAZSA)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8A)m(BfZYRsk_V5XbI8-kTKna5w)n(a(Zc-qNw)s(Tr0)'a(HUjytw)s(Av0)))s(s(_0o)b(MAYbKOaTRozeDwbLl19AyvA0ZfQn2Q-nrcIcm4pzp9ccNBvP-RekOJcPhEPsKEBUFugAFYY_xxt-OB3wCQ)'s(pTU)b(lfiit6NhVysGk-HIDPC9KW03QefHQZc7E6Oxzs-RwOXk7j0ouQ8-_XskgAcjLWJnLC7fYYsaJxIosA028yUKDo8VsH68bY-ZIJAABO3D)'s(uAg)b(iAVsfF2b))m(0))/19_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RMHTORJ.png" group-title="BRASIL",UnB TV
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(GM4TWWdkmoZ0mRYMOnT-CA)n(a(NKfpRw)s(Ruk)'a(1Bu5BA)s(ZdE)))s(s(fpg)b(S7DimC3lUpo38DRNGKciFoQElDNPyeEfXr7NNmoWbndF5g4Obp_AfmvmQaZWMe4pbDZoEnF35Tran6xvew)'s(Qt8)b(JQlGjieY5FwHRbD9A8my44a72oulXRIFcGi2v3Al7l0E4CQ3dvYI5wSTThGgrf8xRBy2PupbzDw6BRf0d7T-ie2B6E1YBBs8a7pK0fU4)'s(XwI)b(NzOo9s6Y))m(0))/unb_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jxTcP4E.png" group-title="BRASIL",TV ADO
