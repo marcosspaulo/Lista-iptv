@@ -35,15 +35,15 @@ http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hb2hAZq.png" group-title="BRASIL",TV FUNTELPA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV
-https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
+https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8?token=8525688422037585000
 #EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
 https://video-rvd-df-2.rnp.br/live/ocp(t(FiGx6oOnx84)r(fVR9ug)a(vwXHyA)p(d(aGg)k(qNY)m(0XbCFOu2OzOuwwpMs8Mifg)n(a(5EiXxw)s(TAY)'a(7d2h1w)s(k2g)))s(s(K_E)b(DlFw6Sb0Ng52SSGp55dBX2Ez0sKJVtOlsRp2Z7xkoaPrwpejVh77szaZQAJevPnJj7Lu03hKAYUE_MXyRQ)'s(7R0)b(7jiY1Bi5K8coHQqqfULHa93gm_bfkAWQKDHUOCbv5wLggdKP_QbxH21C1j-qMljo2tcyM7Gt4ppPrSWJgn4-H7nJweKF9Aq5L7lvMQmG)'s(n2I)b(BYKp6cXj))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/drTRgpA.png" group-title="BRASIL",CSC TV
 https://livefocamundo.com:8081/8344/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zPf2vVb.png" group-title="BRASIL",TV SIM COLATINA
-https://stmv1.srvsite.com/tvsimcolatina/tvsimcolatina/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qE9hnaV.png" group-title="BRASIL",TVBE
-https://5c483b9d1019c.streamlock.net:443/8022/8022/playlist.m3u8
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XWqEKu1.png" group-title="BRASIL",TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
