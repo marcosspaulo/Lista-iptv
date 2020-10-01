@@ -82,8 +82,6 @@ https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8047/LVW8047_GoSyvjNUro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
 https://video-rvd-mg-1.rnp.br/live/ocp(t(FiivGsy4jtA)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(PhPEAFH9lY0sTIL8LncPWw)n(a(-zb2ow)s(N3I)'a(vSYwVA)s(w30)))s(s(Glc)b(Gz-IQHIfK76ZRxBGw-InS4lzCfi6oujbS6jUJIprAfCSyumYjGmxnChOqXCKOcG15PqxfHY8jiXVjAYHHQ)'s(24A)b(QXRbki6FVPp_3XYCdKKlKjGHo1kMfp6Y9HKI9w1g5skmJ90A1R255DRetGsj3s6MMrbvhC0_ciZYmOUfkIXV4MqY75RxutE1dNhP0Hp1)'s(0Bo)b(Q264jokE))m(0))/tvines_index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL",MULTI RIO
-http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
 http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
@@ -98,12 +96,8 @@ https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(
 https://5d2c98775bafe.streamlock.net/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KpQWq0w.png" group-title="BRASIL",TV UFOP
 https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(FiOULZ1BQyo)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(zbxyLIEWkcAMZQOEKdYC-w)n(a(8V1mxQ)s(SfI)'a(g22_MQ)s(0zc)))s(s(It4)b(VMj-PrftQ_Rx4W35QMqfAW_1dHFBJfj49ASwXOozx5-nfbEg59Xioc1P2ENe6Dt7Z1f1CDjrtRJmq0LkMw)'s(ZBo)b(ERA_34IZyXGfpK3QssN0FXZeLcr5_vurP27_eHQktgKaqpxHsJCbf-7pK76yA2zxm79qpxVqkqfgEIm187m8asYC1qkvSU8QP0F6q28B)'s(4aM)b(aPSdOdIv))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/07fe8yN.png" group-title="BRASIL",TV SENADO
-http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bKfrpnQ.png" group-title="BRASIL",TV CAMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GcaS2nK.png" group-title="BRASIL",TV JUSTICA
-http://tvmpf.mpf.mp.br:1935/event1900/event1900.stream_720p/playlist.m3u8
+https://origin-02.nxplay.com.br/TV_BRASIL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="BRASIL", TV COM DF
@@ -385,8 +379,6 @@ https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WBYbsG8.png" group-title="BRASIL", 40 GRAUS TV
-https://5d23bdca513db.streamlock.net/40graustv/40graustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="BRASIL", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
