@@ -893,11 +893,11 @@ https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="PORTUGAL", KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qV1UyBY.png" group-title="PORTUGAL",KURIAKOS CINE
+#EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r8ZzMtG.png" group-title="PORTUGAL",PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uLz8xyu.png" group-title="PORTUGAL",SOBRENATURAL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/G9DSDgW.png" group-title="PORTUGAL",SOBRENATURAL TV
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNlBlp.png" group-title="PORTUGAL",TV FATIMA
+#EXTINF:-1 tvg-logo="https://imgur.com/XVVdXeZ.png" group-title="PORTUGAL",TV FATIMA
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
