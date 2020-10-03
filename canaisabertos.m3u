@@ -181,7 +181,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
 https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
-https://stmv1.srvif.com/retrocartoontv/retrocartoontv/playlist.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON 2
 https://stmv6.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M4kiURy.png" group-title="BRASIL",TV RECON SAT KIDS
@@ -721,6 +721,8 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://StmV1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV 2
+https://StmV1.srvstm.com/gospelf2/gospelf2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
