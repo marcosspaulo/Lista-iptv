@@ -413,8 +413,6 @@ https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1659524698.m3u
 https://cdn.jmvstream.com/w/AVJ-9081/playlist/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="BRASIL",SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mTTW4zN.png" group-title="BRASIL",TV MAIS NORDESTE
-https://sam.bitstreaming.info:1936/tvmaisnordestetv/tvmaisnordestetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="BRASIL",TV STA CECILIA
 https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UfbTKUx.png" group-title="BRASIL",CANAL 7
@@ -803,8 +801,6 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m
 https://5abdf4edae5bf.streamlock.net/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m1HP8GW.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
 https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
-https://5d23bdca513db.streamlock.net:443/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XSsoB5z.png" group-title="MUSICA",TRACE BRAZUCA
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
@@ -831,6 +827,8 @@ https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mTTW4zN.png" group-title="MUSICA",TV MAIS NORDESTE
+https://sam.bitstreaming.info:1936/tvmaisnordestetv/tvmaisnordestetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NaeO3cD.png" group-title="MUSICA",RETRO MUSIC TV
