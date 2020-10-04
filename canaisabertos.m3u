@@ -689,6 +689,8 @@ https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 https://origin-02.nxplay.com.br/CANAL_DO_BOI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="BRASIL",AGRO BRASIL
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="BRASIL",TERRA VIVA
+http://189.91.128.150:5555/udp/227.10.20.142:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3Uk2zwp.png" group-title="BRASIL",SGTV
