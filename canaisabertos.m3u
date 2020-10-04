@@ -729,8 +729,6 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 https://caikron.com.br:8082/aparecida/aparecida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png" group-title="RELIGIOSO",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L27ZaAO.png" group-title="RELIGIOSO",TV TUBA
-https://caikron.com.br:8082/rcr_tuba/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
 https://stmv6.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="RELIGIOSO",Rede Seculo 21
