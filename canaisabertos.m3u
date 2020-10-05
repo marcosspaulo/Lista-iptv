@@ -180,7 +180,7 @@ http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
 https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", REDE MANCHETE
 https://stmv.voxtvhd.com.br/redemanchetetv/redemanchetetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q1TeBTD.png" group-title="BRASIL",CANAL 29
+#EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
 https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.m3u8
@@ -881,14 +881,12 @@ https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zVIkQ9q.png" group-title="MUSICA",MELODY
-https://str81.creacast.com/telemelody/b0f3b14b58c3a100a9747cfb6313ada1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oiIDKRT.png" group-title="MUSICA",CLASSIC ARTS SHOWCASE
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EL4Pstl.png" group-title="PORTUGAL",TV DE BRAGA
 https://5cf4a2c2512a2.streamlock.net:443/canalb/canalb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKTlPK7.png" group-title="PORTUGAL",TVI 24
-https://video-auth7.iol.pt/live_edge/tvi24_abr/playlist.m3u8
+https://video-auth6.iol.pt/live_edge/tvi24_abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIwIDQ6NDQ6MTAgUE0maGFzaF92YWx1ZT1hQ1o2UlU1aisxVXExWXRpTURtajB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWY3ZGZiZTUtNTMyOC00MzI4LWI4M2UtYzE2ZWMyOGZmMTcw
 #EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="PORTUGAL", KURIAKOS TV
