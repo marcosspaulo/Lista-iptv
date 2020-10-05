@@ -307,9 +307,9 @@ https://lyqibtcyiz.singularcdn.net.br/pix/pixtv_hi.m3u8
 https://stmv6.srvstm.com/novatvn/novatvn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/flHrmTZ.png" group-title="BRASIL",TV CAPITAL 777
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/s56HgN6.png" group-title="BRASIL",CLASSIQUE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/s56HgN6.png" group-title="BRASIL",CLASSIQUE TV 2
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV 2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/84twyOQ.png" group-title="BRASIL",CINE TRIANON TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
