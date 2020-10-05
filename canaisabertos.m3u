@@ -888,7 +888,7 @@ https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EL4Pstl.png" group-title="PORTUGAL",TV DE BRAGA
 https://5cf4a2c2512a2.streamlock.net:443/canalb/canalb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKTlPK7.png" group-title="PORTUGAL",TVI 24
-https://video-auth5.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDEwOjE0OjQ5IEFNJmhhc2hfdmFsdWU9YzdwVTEvaVoyVWZ0SXlTNlY0dEdUQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI3MjA1N2U4LWQyN2UtNGI5Yi05ZjRkLTY4ZTcyMzBlZDQ4Ng==
+https://video-auth7.iol.pt/live_edge/tvi24_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="PORTUGAL", KURIAKOS TV
