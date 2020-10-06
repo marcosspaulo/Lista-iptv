@@ -146,6 +146,8 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S9f1Jcs.png" group-title="BRASIL", REDE AMERICA
+https://d2nvs31859zcd8.cloudfront.net/1eac1c00bd46da12433a_redeamericaetelevisao_2731383073_170776109/chunked/index-dvr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA
