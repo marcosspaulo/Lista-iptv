@@ -879,6 +879,8 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="MUSICA",PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plucifh.png" group-title="MUSICA",RADIO ITALIA VISION
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U5fkA2a.png" group-title="MUSICA",RADIO ITALIA TV
