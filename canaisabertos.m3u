@@ -214,6 +214,8 @@ https://tna5.bozztv.com/offline/index.m3u8
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bhXM675.png" group-title="BRASIL",RCC TV
 https://srv2.zcast.com.br/edvaldonicolau8872/edvaldonicolau8872/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yeearVp.png" group-title="BRASIL", TV ESTADO
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RRgMcKR.png" group-title="BRASIL", TV INFORBAHIA
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eHUtJl1.png" group-title="BRASIL",LOCOMOTION TV
@@ -730,13 +732,15 @@ https://StmV1.srvstm.com/gospelf2/gospelf2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
-https://caikron.com.br:8082/aparecida/aparecida/playlist.m3u8
+https://origin-02.nxplay.com.br/TV_APARECIDA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png" group-title="RELIGIOSO",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
 https://stmv6.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="RELIGIOSO",Rede Seculo 21
+#EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="RELIGIOSO",REDE SECULO 21
 https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ITKABM7.png" group-title="RELIGIOSO",TV FE BRASIL
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fn1iUxg.png" group-title="RELIGIOSO",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nfmEgdC.png" group-title="RELIGIOSO",CANCAO NOVA
@@ -767,7 +771,7 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist-480p.m3u8
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7OrX6nR.png" group-title="RELIGIOSO",CANAL PROMESSAS
+#EXTINF:-1 tvg-logo="https://imgur.com/9fdsMNM.png" group-title="RELIGIOSO",CANAL PROMESSAS
 http://canalpromessas.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1DA083I.png" group-title="RELIGIOSO",REDE CIDADE VIVA
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?da5811e7f0f6d2de95058aaa4c189620
@@ -805,8 +809,6 @@ https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yeearVp.png" group-title="MUSICA", TV ESTADO
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/R7bLhYI.png" group-title="MUSICA", TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
@@ -887,6 +889,8 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EL4Pstl.png" group-title="PORTUGAL",TV DE BRAGA
 https://5cf4a2c2512a2.streamlock.net:443/canalb/canalb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uUffAaV.png" group-title="PORTUGAL",SIC TV
+https://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKTlPK7.png" group-title="PORTUGAL",TVI 24
 https://video-auth6.iol.pt/live_edge/tvi24_abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIwIDQ6NDQ6MTAgUE0maGFzaF92YWx1ZT1hQ1o2UlU1aisxVXExWXRpTURtajB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWY3ZGZiZTUtNTMyOC00MzI4LWI4M2UtYzE2ZWMyOGZmMTcw
 #EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
