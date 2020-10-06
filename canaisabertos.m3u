@@ -881,6 +881,8 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plucifh.png" group-title="MUSICA",RADIO ITALIA VISION
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U5fkA2a.png" group-title="MUSICA",RADIO ITALIA TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XZvXhUo.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TERRA MIA TV
@@ -889,10 +891,6 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EL4Pstl.png" group-title="PORTUGAL",TV DE BRAGA
 https://5cf4a2c2512a2.streamlock.net:443/canalb/canalb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uUffAaV.png" group-title="PORTUGAL",SIC TV
-https://videos.impresa.pt/sic/2020-10-06/f29737bc-cdc3-479f-9bdb-9289f0487f34_sic_2020-10-06_10-35-47.682.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZKTlPK7.png" group-title="PORTUGAL",TVI 24
-https://video-auth6.iol.pt/live_edge/tvi24_abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIwIDQ6NDQ6MTAgUE0maGFzaF92YWx1ZT1hQ1o2UlU1aisxVXExWXRpTURtajB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWY3ZGZiZTUtNTMyOC00MzI4LWI4M2UtYzE2ZWMyOGZmMTcw
 #EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="PORTUGAL", KURIAKOS TV
