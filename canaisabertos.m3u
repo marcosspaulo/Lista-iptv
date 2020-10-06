@@ -791,8 +791,6 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 https://StmV1.painelvox.top/siteiaptd/siteiaptd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Onprkf.png" group-title="RELIGIOSO",TV UNIVERSAL
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/meNeQE6.png" group-title="RELIGIOSO",MKK WEB TV
-http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tXmcuEg.png" group-title="RELIGIOSO",TV RECON SAT GOSPEL
 https://stmv1.srvif.com/reconsatgospel/reconsatgospel/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fuzWTZu.png" group-title="RELIGIOSO",TV NOVO MILENIO
@@ -811,6 +809,8 @@ https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/meNeQE6.png" group-title="MUSICA",MKK WEB TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/R7bLhYI.png" group-title="MUSICA", TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
@@ -835,6 +835,10 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 https://sam.bitstreaming.info:1936/tvmaisnordestetv/tvmaisnordestetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="MUSICA",RADIO 21
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NaeO3cD.png" group-title="MUSICA",RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV
@@ -847,8 +851,6 @@ https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="MUSICA", THE RETRO CHANNEL
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="MUSICA",RADIO 21
-http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WKjt0cj.png" group-title="MUSICA",MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WTRxEei.png" group-title="MUSICA",RADIO 51 TV
@@ -881,8 +883,6 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="MUSICA",PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
-https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plucifh.png" group-title="MUSICA",RADIO ITALIA VISION
 https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MfX8Q9s.png" group-title="MUSICA",RADIO ITALIA TV
