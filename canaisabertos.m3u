@@ -899,6 +899,8 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eh1Yvi9.png" group-title="PORTUGAL",CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EHOdf74.png" group-title="PORTUGAL",CANCAO NOVA PORTUGAL
+https://5c643ed5107b7.streamlock.net/live-free-world/CancaoNova.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G9DSDgW.png" group-title="PORTUGAL",SOBRENATURAL TV
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XVVdXeZ.png" group-title="PORTUGAL",TV FATIMA
