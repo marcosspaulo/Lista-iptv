@@ -767,8 +767,10 @@ https://5eaa6849d0971.streamlock.net/radiogospeltv/radiogospeltv/playlist.m3u8
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9B7zlVw.png" group-title="RELIGIOSO",TV CACHOEIRA
 http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
+#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS RJ
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
+https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
@@ -907,6 +909,10 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EHOdf74.png" group-title="PORTUGAL",CANCAO NOVA PORTUGAL
 https://5c643ed5107b7.streamlock.net/live-free-world/CancaoNova.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IZMlyyQ.png" group-title="PORTUGAL",TV ALMADA
+http://88.198.22.8:1935/adalmada_tv/ngrp:adalmada_tv_all/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qn1uV4v.png" group-title="PORTUGAL",TV MANA 1
+http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G9DSDgW.png" group-title="PORTUGAL",SOBRENATURAL TV
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XVVdXeZ.png" group-title="PORTUGAL",TV FATIMA
