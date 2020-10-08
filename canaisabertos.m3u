@@ -134,8 +134,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LuPVof2.png" group-title="BRASIL", TV FLORESTA
-https://srv-mc.sistemafloresta.com.br/sbt_live/tracks-v1a1/mono.m3u8?token=09742b57744517dc2aa7096147d268e0
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="BRASIL", TV CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QepWglb.png" group-title="BRASIL",TV DIFUSORA MA 10
