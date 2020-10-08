@@ -687,6 +687,14 @@ https://sam.bitstreaming.info:1936/8106/8106/playlist.m3u8
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3Uk2zwp.png" group-title="BRASIL",SGTV
+https://stmv6.srvstm.com/hudsondemeloborges1793/hudsondemeloborges1793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0BTXlx8.png" group-title="BRASIL",STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL",TV PLAN
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://5f1838950758d.streamlock.net/live/aovivo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
@@ -697,14 +705,6 @@ https://origin-02.nxplay.com.br/CANAL_DO_BOI/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="AGRO",TERRA VIVA
 http://189.91.128.150:5555/udp/227.10.20.142:1234
-#EXTINF:-1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3Uk2zwp.png" group-title="BRASIL",SGTV
-https://stmv6.srvstm.com/hudsondemeloborges1793/hudsondemeloborges1793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0BTXlx8.png" group-title="BRASIL",STZ TV
-http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL",TV PLAN
-http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1624254750.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PpfyPE9.png" group-title="ESPORTES", ALL SPORTS
