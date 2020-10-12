@@ -84,8 +84,6 @@ https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8047/LVW8047_GoSyvjNUro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
 https://video-rvd-mg-1.rnp.br/live/ocp(t(FiivGsy4jtA)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(PhPEAFH9lY0sTIL8LncPWw)n(a(-zb2ow)s(N3I)'a(vSYwVA)s(w30)))s(s(Glc)b(Gz-IQHIfK76ZRxBGw-InS4lzCfi6oujbS6jUJIprAfCSyumYjGmxnChOqXCKOcG15PqxfHY8jiXVjAYHHQ)'s(24A)b(QXRbki6FVPp_3XYCdKKlKjGHo1kMfp6Y9HKI9w1g5skmJ90A1R255DRetGsj3s6MMrbvhC0_ciZYmOUfkIXV4MqY75RxutE1dNhP0Hp1)'s(0Bo)b(Q264jokE))m(0))/tvines_index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zozzmI6.png" group-title="BRASIL",CANAL FUTURA
-https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
 http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
@@ -128,6 +126,8 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/oa2VPrT.png" group-title="BRASIL", REDE TV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
@@ -747,6 +747,8 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://5829cb6b64c3c.streamlock.net/id2252/id2252/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nKPnbQS.png" group-title="RELIGIOSO",TV VITORIA PE
 https://novo.bitstreaming.info/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eBxxgeT.png" group-title="RELIGIOSO",TV IMACULADA CONCEICAO
+https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TpJtDbG.png" group-title="RELIGIOSO",TV BOA VONTADE
