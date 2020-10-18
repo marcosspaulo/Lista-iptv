@@ -84,6 +84,8 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yk64BLB.png" group-title="BRASIL",TV MINAS BRASIL
 https://cdn.jmvstream.com/w/LVW-8047/LVW8047_GoSyvjNUro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
 https://video-rvd-mg-1.rnp.br/live/ocp(t(FiivGsy4jtA)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(PhPEAFH9lY0sTIL8LncPWw)n(a(-zb2ow)s(N3I)'a(vSYwVA)s(w30)))s(s(Glc)b(Gz-IQHIfK76ZRxBGw-InS4lzCfi6oujbS6jUJIprAfCSyumYjGmxnChOqXCKOcG15PqxfHY8jiXVjAYHHQ)'s(24A)b(QXRbki6FVPp_3XYCdKKlKjGHo1kMfp6Y9HKI9w1g5skmJ90A1R255DRetGsj3s6MMrbvhC0_ciZYmOUfkIXV4MqY75RxutE1dNhP0Hp1)'s(0Bo)b(Q264jokE))m(0))/tvines_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
@@ -675,6 +677,10 @@ http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://5eaa6849d0971.streamlock.net:443/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="BRASIL",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="BRASIL", TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CQ9qNc2.png" group-title="BRASIL", TV FLORIPA
+http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
@@ -773,6 +779,12 @@ http://canalpromessas.com.br/playlist.m3u8
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?da5811e7f0f6d2de95058aaa4c189620
 #EXTINF:-1 tvg-logo="https://imgur.com/hyNIGqK.png" group-title="RELIGIOSO",TV REINO
 https://livefocamundo.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MOw4KXT.png" group-title="RELIGIOSO",REDE BRASIL TV
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2LMAP8G.png" group-title="RELIGIOSO", REDE RVC
+http://flash1.crossdigital.com.br:1935/ponto82/redervc/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wmLxlig.png" group-title="RELIGIOSO", CAPITAL TV
+https://stmv1.srvif.com/rbc/rbc/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
 https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
