@@ -397,8 +397,6 @@ https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="BRASIL", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xFEeKMc.png" group-title="BRASIL", TV ALTIORA
-https://live.desdobrar.com/hls/altiora.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="BRASIL",REDE METROPOLITANA
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cn1NYpM.png" group-title="BRASIL",TV ESTILO
@@ -425,8 +423,6 @@ https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
 https://stmv1.mycast.com.br/iracematv/iracematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IxMstuQ.png" group-title="BRASIL",REDE TVC
 https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xlVxFTA.png" group-title="BRASIL",CARIRI TV
-https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1659524698.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO
 https://cdn.jmvstream.com/w/AVJ-9081/playlist/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="BRASIL",SERTAO TV
@@ -437,8 +433,6 @@ https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
 http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qupN7JL.png" group-title="BRASIL",TV CIDADE TIRADENTES
 https://novo.bitstreaming.info:443/8284/8284/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL",CONEXAO TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t8SUT5i.png" group-title="BRASIL", KCEPA TV
@@ -449,8 +443,6 @@ https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2051078470.m3u8
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93NjzeF.png" group-title="BRASIL", REDE ESTACAO 26
 https://novo.bitstreaming.info/redeestacao26tv/redeestacao26tv/chunklist_w1483333240.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WueCG3C.png" group-title="BRASIL", RDC TV 
-https://ffmh4milme.zoeweb.tv/demo/rdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zf243l6.png" group-title="BRASIL", MARICA TV
 https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ESNvgRj.png" group-title="BRASIL", TERE TV
