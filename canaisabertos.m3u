@@ -39,7 +39,7 @@ http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV
 https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8?token=8525688422037585000
 #EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
-https://video-rvd-df-2.rnp.br/live/ocp(t(FiGx6oOnx84)r(fVR9ug)a(vwXHyA)p(d(aGg)k(qNY)m(0XbCFOu2OzOuwwpMs8Mifg)n(a(5EiXxw)s(TAY)'a(7d2h1w)s(k2g)))s(s(K_E)b(DlFw6Sb0Ng52SSGp55dBX2Ez0sKJVtOlsRp2Z7xkoaPrwpejVh77szaZQAJevPnJj7Lu03hKAYUE_MXyRQ)'s(7R0)b(7jiY1Bi5K8coHQqqfULHa93gm_bfkAWQKDHUOCbv5wLggdKP_QbxH21C1j-qMljo2tcyM7Gt4ppPrSWJgn4-H7nJweKF9Aq5L7lvMQmG)'s(n2I)b(BYKp6cXj))m(0))/index.m3u8
+https://video-rvd-df-1.rnp.br/live/ocp(t(Fjvc5pNRuGA)r(fVR9ug)a(utDK3g)p(d(2xc)k(q8A)m(KhGD2nw_uWDky60N16Ztcg)n(a(fB5whg)s(ss0)'a(CUJAuw)s(1GI)))s(s(-Ks)b(s1u55ECccHYJcqlqkhpuyoPLskD9ngRBm7kst5Y2vJXNHELb_A1fbsk8wLEJiGTLUzke6sAQI7ac6D_4_g)'s(oKs)b(Udf1Qiczup98P6LzmeasFfjg6JGo47bA9DRMxyF0lPDpS18mGqCYH9UIs2p1Nwah33InvmWEv7ky3wojyKIqGTdLhEAZhVD6Ozuz31VR)'s(Tfo)b(bzpsEFDP))m(0))/30_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/drTRgpA.png" group-title="BRASIL",CSC TV
 https://livefocamundo.com:8081/8344/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zPf2vVb.png" group-title="BRASIL",TV SIM COLATINA
