@@ -232,6 +232,8 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bhXM675.png" group-title="BRASIL", RCC TV
 https://srv2.zcast.com.br/edvaldonicolau8872/edvaldonicolau8872/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RRgMcKR.png" group-title="BRASIL", TV INFORBAHIA
@@ -272,8 +274,8 @@ https://srv1.zcast.com.br/franca1/franca1/playlist.m3u8
 https://livefocamundo.com:8081/8588/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="BRASIL", REDE TV MAIS
 https://5abdf4edae5bf.streamlock.net:443/tvarthdtv/tvarthdtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
-https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WsGXHOd.png" group-title="BRASIL", WEB TV ENTORNO SUL
+https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3B59JAw.png" group-title="BRASIL",LATINA SAT WEB TV
 https://livefocamundo.com:8081/8470/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
@@ -861,6 +863,8 @@ http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt8SXxy.png" group-title="MUSICA", RADIO CAPITAL TIVU
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/G6Ujc7U.png" group-title="MUSICA", OCKO TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="MUSICA", THE RETRO CHANNEL
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WKjt0cj.png" group-title="MUSICA",MELODY CHANNEL
