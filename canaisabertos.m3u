@@ -300,6 +300,8 @@ https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
 http://189.14.233.254:1935/WebTV/WebTV.stream/playlist-480P.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BTNfZEl.png" group-title="BRASIL",REDE WEB TV
 https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5Z8Oq6m.png" group-title="BRASIL",MANAUS MIX WEB TV
+https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Htci37P.png" group-title="BRASIL",TV DESTAQUE NACIONAL
 https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL",TV MON
