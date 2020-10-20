@@ -461,6 +461,8 @@ https://novo.bitstreaming.info/redeestacao26tv/redeestacao26tv/chunklist_w148333
 https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ESNvgRj.png" group-title="BRASIL", TERE TV
 https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/playlist.m3u8?DVR
+#EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EREfMVh.png" group-title="BRASIL", TV MAIS
 https://596639ebdd89b.streamlock.net/8040/8040/chunklist_w24402513.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NIlCeIF.png" group-title="BRASIL",LIDER TV
@@ -856,7 +858,7 @@ https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mTTW4zN.png" group-title="MUSICA",TV MAIS NORDESTE
-https://sam.bitstreaming.info:1936/tvmaisnordestetv/tvmaisnordestetv/playlist-480p.m3u8
+https://5eaa6849d0971.streamlock.net/tvmaisnordestetv/tvmaisnordestetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
