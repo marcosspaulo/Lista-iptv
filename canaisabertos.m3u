@@ -292,8 +292,6 @@ https://livefocamundo.com:8081/8470/index.m3u8
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
 https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
-#EXTINF:-1 tvg-logo="https://imgur.com/L7MIeNz.png" group-title="BRASIL",WEB TV SHOWTIME
-http://video01.kshost.com.br/joao4654/joao4654/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RUvA3s2.png" group-title="BRASIL", PORTAL NEWS WEB TV
 https://stmv6.srvstm.com/portalnews/portalnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q35K1Nj.png" group-title="BRASIL", WEB TV AGUA BOA
@@ -339,6 +337,8 @@ http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV 2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L7MIeNz.png" group-title="BRASIL",WEB TV SHOWTIME
+http://video01.kshost.com.br/joao4654/joao4654/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/84twyOQ.png" group-title="BRASIL",CINE TRIANON TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS
