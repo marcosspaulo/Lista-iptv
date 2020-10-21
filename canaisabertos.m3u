@@ -437,6 +437,8 @@ https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
 https://stmv1.mycast.com.br/iracematv/iracematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IxMstuQ.png" group-title="BRASIL",REDE TVC
 https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE
+https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO
 https://cdn.jmvstream.com/w/AVJ-9081/playlist/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="BRASIL",SERTAO TV
