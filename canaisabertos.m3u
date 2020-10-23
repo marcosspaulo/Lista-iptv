@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 21/10/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 23/10/2020
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
@@ -655,6 +655,10 @@ https://srv4.zcast.com.br/joanes6132/joanes6132/playlist.m3u8
 https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YznzopX.png" group-title="BRASIL",STVI WEB TV
+https://srv4.zcast.com.br/antoniosilva6604/antoniosilva6604/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yzDFalj.png" group-title="BRASIL",SRTV PB
+https://livefocamundo.com:8081/8694/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PSYXdFI.png" group-title="BRASIL",NOVA TV FRANCA
