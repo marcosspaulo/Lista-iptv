@@ -240,7 +240,7 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iln1bd4.png" group-title="BRASIL",TV LITORAL OSORIO
+#EXTINF:-1 tvg-logo="https://imgur.com/iln1bd4.png" group-title="BRASIL", TV LITORAL OSORIO
 http://video01.kshost.com.br/aluizio3406/aluizio3406/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
