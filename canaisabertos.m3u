@@ -98,6 +98,10 @@ http://tv.unisc.br:80/hls/test.m3u8
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(GM4TWWdkmoZ0mRYMOnT-CA)n(a(NKfpRw)s(Ruk)'a(1Bu5BA)s(ZdE)))s(s(fpg)b(S7DimC3lUpo38DRNGKciFoQElDNPyeEfXr7NNmoWbndF5g4Obp_AfmvmQaZWMe4pbDZoEnF35Tran6xvew)'s(Qt8)b(JQlGjieY5FwHRbD9A8my44a72oulXRIFcGi2v3Al7l0E4CQ3dvYI5wSTThGgrf8xRBy2PupbzDw6BRf0d7T-ie2B6E1YBBs8a7pK0fU4)'s(XwI)b(NzOo9s6Y))m(0))/unb_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ekqMXvj.png" group-title="BRASIL", TV UNESP
 https://video.unesp.br/live/indoor.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jxTcP4E.png" group-title="BRASIL",TV ADO
 https://5d2c98775bafe.streamlock.net/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KpQWq0w.png" group-title="BRASIL",TV UFOP
@@ -547,20 +551,6 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 https://722787183.r.worldssl.net/722787183/_definst_/oestetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="BRASIL",STUDIO TV
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BCQogpb.png" group-title="BRASIL", 98 FM
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="BRASIL", IN TV
-http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="BRASIL", JK FM
-https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="BRASIL", CBN RJ FM
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="BRASIL", CATVE FM FOZ
-http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jtmmPhA.png" group-title="BRASIL",TV URBANA
 https://livefocamundo.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Iw8f5Ft.png" group-title="BRASIL", BAH TV 
@@ -719,6 +709,34 @@ https://origin-02.nxplay.com.br/CANAL_DO_BOI/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="AGRO",TERRA VIVA
 http://189.91.128.150:5555/udp/227.10.20.142:1234
+#EXTINF:-1 tvg-logo="https://imgur.com/BCQogpb.png" group-title="ESTUDIO FM", 98 FM
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
+http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
+https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
+http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM", RADIO MONTE FM
+https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HYQFqp1.png" group-title="ESTUDIO FM", RADIO D2 FM
+https://59e4b6c1beddc.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM 100,5
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AsY2mjb.png" group-title="ESTUDIO FM", FM TRES RIOS
+https://5a7d54e35f9d2.streamlock.net/z609-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
+http://209.126.127.101:1935/radioclubeararense/radioclubeararense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b0xzYdU.png" group-title="ESTUDIO FM", RADIO DIFUSORA
+https://hls.brasilstream.com.br/live/difusorafm/difusorafm/rewind-7200.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VXaA0jI.png" group-title="ESTUDIO FM", RADIO VILABELA FM
+https://stmv6.srvstm.com/vilabelafm/vilabelafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yT0SnpI.png" group-title="ESTUDIO FM", IND FM
+http://209.126.127.101:1935/indfm/indfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 http://189.91.128.150:5555/udp/227.10.20.119:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
