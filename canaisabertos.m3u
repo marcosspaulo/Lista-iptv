@@ -737,6 +737,8 @@ https://hls.brasilstream.com.br/live/difusorafm/difusorafm/rewind-7200.m3u8
 https://stmv6.srvstm.com/vilabelafm/vilabelafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yT0SnpI.png" group-title="ESTUDIO FM", IND FM
 http://209.126.127.101:1935/indfm/indfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", RADIO 90 FM
+https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 http://189.91.128.150:5555/udp/227.10.20.119:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
