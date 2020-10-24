@@ -713,6 +713,8 @@ http://189.91.128.150:5555/udp/227.10.20.142:1234
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
+https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
 https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
@@ -739,6 +741,8 @@ https://stmv6.srvstm.com/vilabelafm/vilabelafm/playlist.m3u8
 http://209.126.127.101:1935/indfm/indfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", RADIO 90 FM
 https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", 40 GRAUS FM
+https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 http://189.91.128.150:5555/udp/227.10.20.119:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
