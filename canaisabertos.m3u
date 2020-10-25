@@ -743,8 +743,12 @@ https://stmv6.srvstm.com/vilabelafm/vilabelafm/playlist.m3u8
 http://209.126.127.101:1935/indfm/indfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", RADIO 90 FM
 https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Xjos1dw.png" group-title="ESTUDIO FM", RADIO COLINAS FM
+https://StmV6.srvstm.com/luizfernando1460/luizfernando1460/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", 40 GRAUS FM
 https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/nC4x2Or.png" group-title="ESTUDIO FM", EVANGELICA FM
+https://5a1e323a9ae38.streamlock.net/radioevangelicafm/radioevangelicafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 http://189.91.128.150:5555/udp/227.10.20.119:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
