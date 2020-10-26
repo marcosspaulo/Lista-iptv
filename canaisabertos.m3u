@@ -89,15 +89,17 @@ https://cdn.jmvstream.com/w/LVW-8047/LVW8047_GoSyvjNUro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO
 http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
-https://video-rvd-mg-1.rnp.br/live/ocp(t(FiivGsy4jtA)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(PhPEAFH9lY0sTIL8LncPWw)n(a(-zb2ow)s(N3I)'a(vSYwVA)s(w30)))s(s(Glc)b(Gz-IQHIfK76ZRxBGw-InS4lzCfi6oujbS6jUJIprAfCSyumYjGmxnChOqXCKOcG15PqxfHY8jiXVjAYHHQ)'s(24A)b(QXRbki6FVPp_3XYCdKKlKjGHo1kMfp6Y9HKI9w1g5skmJ90A1R255DRetGsj3s6MMrbvhC0_ciZYmOUfkIXV4MqY75RxutE1dNhP0Hp1)'s(0Bo)b(Q264jokE))m(0))/tvines_index.m3u8
+https://video-rvd-df-gw-2-1.rnp.br/live/ocp(t(FkGbSEguk08)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(FysGC1fx1HxiGCz_dGyfjw)n(a(F1mYSQ)s(fW0)'a(Hjup4w)s(07E)))s(s(ReQ)b(eFsSkfYK-fspLOyS5d5ImC6I1nU4nDZDJu7ksMG5BXahNvzyJlAufWTECEIiveUuPDTipZi6uxy1AfdL-w)'s(qGo)b(DrjZmidaM-F-QMlwVNwmyx4gy6w2LxFIkqrn2A40h30a_Mzg0BRJebDW4eueA2k33m04QJ51k8gzwUqpe9AgHDXIzboj0O_NfZttJMM2)'s(D4c)b(UtHAabUw))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
 http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
 http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RMHTORJ.png" group-title="BRASIL",UnB TV
-https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FiIMN-1uhw8)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(GM4TWWdkmoZ0mRYMOnT-CA)n(a(NKfpRw)s(Ruk)'a(1Bu5BA)s(ZdE)))s(s(fpg)b(S7DimC3lUpo38DRNGKciFoQElDNPyeEfXr7NNmoWbndF5g4Obp_AfmvmQaZWMe4pbDZoEnF35Tran6xvew)'s(Qt8)b(JQlGjieY5FwHRbD9A8my44a72oulXRIFcGi2v3Al7l0E4CQ3dvYI5wSTThGgrf8xRBy2PupbzDw6BRf0d7T-ie2B6E1YBBs8a7pK0fU4)'s(XwI)b(NzOo9s6Y))m(0))/unb_index.m3u8
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FkGbYgB5jQs)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(LbfMgTt8GNBuk6AXAsZt5A)n(a(vP6ndA)s(8zw)'a(JoOPNA)s(A4M)))s(s(Kuo)b(_SuXBA7QIba2KGXaLR2rUJUpQckxVHEpBCZ5CcqDOxoyh6EzycVW_EHSKnXGS--5RCBqxdHC3ctOXTBJFg)'s(oWc)b(7TscAEsBMrv04AvpVMHSLolrn-ahR-FeFnrIdwNDM68LCeqLCDVxh5ISR_j-KFQMcyX8v-lsDeme7tcz1voeVO2-Z_tY36q8NoaJ-8AU)'s(zJw)b(Dnm3FMAD))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ekqMXvj.png" group-title="BRASIL", TV UNESP
 https://video.unesp.br/live/indoor.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KqFlNSc.png" group-title="BRASIL", TV UNIVALE
+http://189.91.128.150:5555/udp/227.10.20.103:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP
@@ -105,9 +107,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jxTcP4E.png" group-title="BRASIL",TV ADO
 https://5d2c98775bafe.streamlock.net/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KpQWq0w.png" group-title="BRASIL",TV UFOP
-https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(FiOULZ1BQyo)r(fVR9ug)a(vQYbQw)p(d(aGg)k(qNY)m(zbxyLIEWkcAMZQOEKdYC-w)n(a(8V1mxQ)s(SfI)'a(g22_MQ)s(0zc)))s(s(It4)b(VMj-PrftQ_Rx4W35QMqfAW_1dHFBJfj49ASwXOozx5-nfbEg59Xioc1P2ENe6Dt7Z1f1CDjrtRJmq0LkMw)'s(ZBo)b(ERA_34IZyXGfpK3QssN0FXZeLcr5_vurP27_eHQktgKaqpxHsJCbf-7pK76yA2zxm79qpxVqkqfgEIm187m8asYC1qkvSU8QP0F6q28B)'s(4aM)b(aPSdOdIv))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GcaS2nK.png" group-title="BRASIL",TV JUSTICA
-https://origin-02.nxplay.com.br/TV_BRASIL/playlist.m3u8
+https://video-rvd-df-2.rnp.br/live/ocp(t(FkGbeB6i7zM)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(F4MztmY4_y3J2QWy4oJAaQ)n(a(6fNh8A)s(XVw)'a(UnsrBA)s(MFM)))s(s(_QQ)b(oqv2Pp1Kosq6jOm_QzSn5pJ_c2vv4RI2vqOHC0dDCZj65b7WqKg9hgktz0AK9hjWpmGi27o4XPAn1gJbkg)'s(CEs)b(U-LaiYsDdwhqewTS7jNgCl46vD2eIsxcx1JSdXXXsRHzFr3Io_GpYlgno4D0GoNWpUjEM4_7niWyeGUQAGo6-rlanKg7eP4Wc-xX5orc)'s(gCI)b(2ibjeve_))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="BRASIL", TV COM DF
@@ -238,6 +238,8 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
 https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/playlist-480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ANfSkcc.png" group-title="BRASIL", TV ALAGOINHA
+http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5fGa3Ct.png" group-title="BRASIL",TV VILA VELHA
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CGNLYBo.png" group-title="BRASIL", VIN TV
@@ -627,8 +629,6 @@ http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-9137/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kCy7RWq.png" group-title="BRASIL",WEB TV MACEIO
 https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="BRASIL",RS NEWS WEB TV
-https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SYZEfo8.png" group-title="BRASIL", WEB TV MINAS
 http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C0tkmm0.png" group-title="BRASIL", WEB TV UAI
@@ -751,6 +751,8 @@ https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 https://5a1e323a9ae38.streamlock.net/radioevangelicafm/radioevangelicafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 http://189.91.128.150:5555/udp/227.10.20.119:1234
+#EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
 https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PpfyPE9.png" group-title="ESPORTES", ALL SPORTS
