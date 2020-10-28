@@ -729,10 +729,10 @@ https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HYQFqp1.png" group-title="ESTUDIO FM", RADIO D2 FM
 https://59e4b6c1beddc.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="ESTUDIO FM", RADIO UIRAPURU
+https://59f2354c05961.streamlock.net:1443/uirapuru/_definst_/uirapuru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM 100,5
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AsY2mjb.png" group-title="ESTUDIO FM", FM TRES RIOS
-https://5a7d54e35f9d2.streamlock.net/z609-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
@@ -747,6 +747,8 @@ http://209.126.127.101:1935/indfm/indfm/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xjos1dw.png" group-title="ESTUDIO FM", RADIO COLINAS FM
 https://StmV6.srvstm.com/luizfernando1460/luizfernando1460/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AsY2mjb.png" group-title="ESTUDIO FM", FM TRES RIOS
+https://5a7d54e35f9d2.streamlock.net/z609-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", 40 GRAUS FM
 https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/nC4x2Or.png" group-title="ESTUDIO FM", EVANGELICA FM
