@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 24/10/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 29/10/2020
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
@@ -12,6 +12,8 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P9EF9dx.png" group-title="BRASIL", A FAZENDA 12
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",GLOBO MG
 http://189.91.128.150:5555/udp/227.10.20.109:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/hhginmz.png" group-title="BRASIL",CNN BRASIL
@@ -59,7 +61,7 @@ http://150.161.93.220/hls/480/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC
 http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F9lvb2P.png" group-title="BRASIL",TV PREVE
-https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist-480p.m3u8
+https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HatK0Ys.png" group-title="BRASIL",TV EDUCATIVA
 https://srv2.zcast.com.br/fredericoluiz1577/fredericoluiz1577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="BRASIL",TVE ES
@@ -177,11 +179,11 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
 https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/chunklist_w707072948.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e9e2UT0.png" group-title="BRASIL", REDE H
 https://stmv3.samcast.com.br/hugo3090/hugo3090/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zCmSXiw.png" group-title="BRASIL",TV TRANSAMERICA
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w86350924.m3u8
+http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
@@ -722,7 +724,7 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="AGRO",TERRA VIVA
 http://189.91.128.150:5555/udp/227.10.20.142:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/BCQogpb.png" group-title="ESTUDIO FM", 98 FM
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
