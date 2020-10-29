@@ -981,6 +981,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oiIDKRT.png" group-title="MUSICA",CLASSIC ARTS SHOWCASE
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/95K3Pqq.png" group-title="PORTUGAL",ASSIM E PORTUGAL
+https://livefocamundo.com:8081/8174/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4vMggOb.png" group-title="PORTUGAL", TDM - Teledifusão de Macau (PT)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png" group-title="PORTUGAL",RTP 1
