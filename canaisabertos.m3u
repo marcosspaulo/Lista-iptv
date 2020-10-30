@@ -743,6 +743,8 @@ https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 https://59e4b6c1beddc.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="ESTUDIO FM", RADIO UIRAPURU
 https://59f2354c05961.streamlock.net:1443/uirapuru/_definst_/uirapuru/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hBfTErW.png" group-title="ESTUDIO FM", RADIO CULTURA FM
+https://hls.brasilstream.com.br/live/culturahd/culturahd/mono.m3u8?token=2184347145477635000
 #EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM 100,5
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
