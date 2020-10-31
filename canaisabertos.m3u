@@ -461,8 +461,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://livefocamundo.com:8081/8162/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LH6SvbK.png" group-title="BRASIL",MUNDIAL TV
 https://novo.bitstreaming.info:1936/8030/8030/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7qXVy4y.png" group-title="BRASIL",TV CNT WEB
-https://video01.kshost.com.br/sedenir3271/sedenir3271/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Mfr7xIc.png" group-title="BRASIL", TV OPCAO
 https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Epxr8DX.png" group-title="BRASIL", TV DAS ARTES
@@ -493,8 +491,6 @@ https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3
 https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/playlist.m3u8?DVR
 #EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EREfMVh.png" group-title="BRASIL", TV MAIS
-https://596639ebdd89b.streamlock.net/8040/8040/chunklist_w24402513.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NIlCeIF.png" group-title="BRASIL",LIDER TV
 http://189.51.193.70:1935/LiderTV/fluxo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fXXR6Qb.png" group-title="BRASIL", TV CENTRO SUL
@@ -727,6 +723,12 @@ https://livefocamundo.com:8081/8480/tracks-v1a1/mono.m3u8
 https://livefocamundo.com:8081/8292/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",REAL H TV
 https://livefocamundo.com:8081/8730/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CONQUISTA WEB TV
+https://livefocamundo.com:8081/8256/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",BLUE WORLD TV
+https://livefocamundo.com:8081/8336/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TOP NEWS
+https://livefocamundo.com:8081/8742/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV IPIRA
 https://livefocamundo.com:8081/8476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV AVIVA RIO VERDE
