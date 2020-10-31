@@ -154,6 +154,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IO5GJtj.png" group-title="BRASIL", TV SERRA DOURADA
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eT1W2vq.png" group-title="BRASIL", TV ARATU
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TSq3WMY.png" group-title="BRASIL", TV GUAJARA
@@ -258,8 +260,6 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CGNLYBo.png" group-title="BRASIL", VIN TV
 https://5b7f3c45ab7c2.streamlock.net/8044/ngrp:8044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
-https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iln1bd4.png" group-title="BRASIL", TV LITORAL OSORIO
@@ -284,14 +284,20 @@ https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
 https://stmv1.srvif.com/tvrevista/tvrevista/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5jrsIVy.png" group-title="BRASIL",TV RIO LARGO
 https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=1478206888
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OyALnnm.png" group-title="BRASIL", TV ARACATI
 https://livefocamundo.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="BRASIL", TV CIDADE OESTE
 http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
+https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jhW9PGc.png" group-title="BRASIL", TV KRONOS MOVIE WEB TV
+https://livefocamundo.com:8081/8588/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5J1c8C.png" group-title="BRASIL", PPTV CHANNEL
 https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
@@ -314,14 +320,10 @@ https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f7S6zaO.png" group-title="BRASIL", RWCG WEB TV
 https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2051078470.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wcMpBoY.png" group-title="BRASIL", WEB TV RS
 https://novo.bitstreaming.info:1936/webtvrstv/webtvrstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vOeuE3O.png" group-title="BRASIL", WEB TV KATURRA
 https://srv1.zcast.com.br/franca1/franca1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jhW9PGc.png" group-title="BRASIL", TV KRONOS MOVIE WEB TV
-https://livefocamundo.com:8081/8588/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="BRASIL", REDE TV MAIS
 https://5abdf4edae5bf.streamlock.net:443/tvarthdtv/tvarthdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WsGXHOd.png" group-title="BRASIL", WEB TV ENTORNO SUL
