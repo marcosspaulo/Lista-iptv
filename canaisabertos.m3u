@@ -282,6 +282,8 @@ https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ELRp88Z.png" group-title="BRASIL",TV REVISTA
 https://stmv1.srvif.com/tvrevista/tvrevista/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5jrsIVy.png" group-title="BRASIL",TV RIO LARGO
+https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=1478206888
 #EXTINF:-1 tvg-logo="https://imgur.com/OyALnnm.png" group-title="BRASIL", TV ARACATI
 https://livefocamundo.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="BRASIL", TV CIDADE OESTE
@@ -324,8 +326,6 @@ https://livefocamundo.com:8081/8588/index.m3u8
 https://5abdf4edae5bf.streamlock.net:443/tvarthdtv/tvarthdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WsGXHOd.png" group-title="BRASIL", WEB TV ENTORNO SUL
 https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO
-https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t8SUT5i.png" group-title="BRASIL", KCEPA TV
 https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3B59JAw.png" group-title="BRASIL",LATINA SAT WEB TV
@@ -371,16 +371,18 @@ http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV 2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L7MIeNz.png" group-title="BRASIL",WEB TV SHOWTIME
-http://video01.kshost.com.br/joao4654/joao4654/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5qCHbP.png" group-title="BRASIL", WEB TV AGROTOUR
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO
+https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/84twyOQ.png" group-title="BRASIL",CINE TRIANON TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VC6BYcz.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://5abdf4edae5bf.streamlock.net/tribunaregionaltvwebtv/tribunaregionaltvwebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L7MIeNz.png" group-title="BRASIL",WEB TV SHOWTIME
+http://video01.kshost.com.br/joao4654/joao4654/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0gVRKqz.png" group-title="BRASIL",WEB TV OURO VERDE
 https://5d82644094cc0.streamlock.net:443/ouroverdetv/ouroverdetv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HMQgVim.png" group-title="BRASIL",WEB TV CASTELO DO PIAUI
@@ -501,8 +503,6 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 http://dag.total-stream.net/dag1.m3u8?sid=ret&cid=dai&auth=&auth=c3RpbWU9MTU4MDU2NTczOSZ2YWxpZGl0eT01JmFnbj0wJmNvbmY9cDAwJnNpZ249MTdmZGI3MTEzY2U5NDFlMGQ5NDc0Njc2MmU3YjE3M2Y=
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5jrsIVy.png" group-title="BRASIL",TV RIO LARGO
-https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=1478206888
 #EXTINF:-1 tvg-logo="https://imgur.com/3IwyZHK.png" group-title="BRASIL", TV RIO NOVO
 https://stmv1.srvsite.com/novo/novo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jgZu5x9.png" group-title="BRASIL", REDE LIVE TV
