@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 29/10/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 31/10/2020
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
@@ -719,6 +719,24 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://livefocamundo.com:8081/8606/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV DESTERRO
 https://livefocamundo.com:8081/8480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV WT JMINAS
+https://livefocamundo.com:8081/8200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",PWTV
+https://livefocamundo.com:8081/8586/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV LIBERDADE AL
+https://livefocamundo.com:8081/tvliberdadeal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CANAL 5
+https://livefocamundo.com:8081/8036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV SONART
+https://livefocamundo.com:8081/8692/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV MIXLIVE
+https://livefocamundo.com:8081/8702/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",OESTE PAULISTA TV
+https://livefocamundo.com:8081/8594/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",REDE PPZ
+https://livefocamundo.com:8081/8720/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CLIC TV
+https://livefocamundo.com:8081/8644/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV PLANALTO
 https://livefocamundo.com:8081/8292/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",REAL H TV
@@ -729,6 +747,8 @@ https://livefocamundo.com:8081/8256/tracks-v1a1/mono.m3u8
 https://livefocamundo.com:8081/8336/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TOP NEWS
 https://livefocamundo.com:8081/8742/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV MAIS
+https://livefocamundo.com:8081/8716/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV IPIRA
 https://livefocamundo.com:8081/8476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV AVIVA RIO VERDE
@@ -791,6 +811,8 @@ https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 https://5a1e323a9ae38.streamlock.net/radioevangelicafm/radioevangelicafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcCrkG.png" group-title="ESPORTES", BAND SPORTS
 http://189.91.128.150:5555/udp/227.10.20.119:1234
+#EXTINF: -1 tvg-logo="https://imgur.com/04KQLZ6.png" group-title="ESPORTES", CANAL ESPORTES ONLINE
+https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
