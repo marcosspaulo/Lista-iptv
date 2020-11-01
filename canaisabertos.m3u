@@ -729,6 +729,10 @@ https://livefocamundo.com:8081/8200/tracks-v1a1/mono.m3u8
 https://livefocamundo.com:8081/8586/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV LIBERDADE AL
 https://livefocamundo.com:8081/tvliberdadeal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV BOM DMAIS
+https://livefocamundo.com:8081/8528/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",FeedTV
+https://livefocamundo.com:8081/8286/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CANAL 5
 https://livefocamundo.com:8081/8036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",LD TV
@@ -737,6 +741,8 @@ https://livefocamundo.com:8081/8608/tracks-v1a1/mono.m3u8
 https://livefocamundo.com:8081/8692/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV MIXLIVE
 https://livefocamundo.com:8081/8702/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV SMURPHIES
+https://livefocamundo.com:8081/8712/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",OESTE PAULISTA TV
 https://livefocamundo.com:8081/8594/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",REDE PPZ
