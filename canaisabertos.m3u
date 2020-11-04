@@ -821,8 +821,8 @@ https://stmv6.srvstm.com/vilabelafm/vilabelafm/playlist.m3u8
 http://209.126.127.101:1935/indfm/indfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", RADIO 90 FM
 https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Xjos1dw.png" group-title="ESTUDIO FM", RADIO COLINAS FM
-https://StmV6.srvstm.com/luizfernando1460/luizfernando1460/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GgWK1Zh.png" group-title="ESTUDIO FM", RADIO PONTE FM
+https://stmv1.srvstm.com/pontefm/pontefm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AsY2mjb.png" group-title="ESTUDIO FM", FM TRES RIOS
 https://5a7d54e35f9d2.streamlock.net/z609-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", 40 GRAUS FM
@@ -961,6 +961,8 @@ http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
+https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/meNeQE6.png" group-title="MUSICA",MKK WEB TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fY4HVfN.png" group-title="MUSICA",WEB TV GUETTO
