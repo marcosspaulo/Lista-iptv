@@ -100,7 +100,7 @@ https://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8
 http://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KqFlNSc.png" group-title="BRASIL", TV UNIVALE
 http://189.91.128.150:5555/udp/227.10.20.103:1234
-#EXTINF:-1 tvg-logo="https://imgur.com/J2XKhLr.png" group-title="BRASIL",TV THATHI
+#EXTINF:-1 tvg-logo="https://imgur.com/fZ05ozN.png" group-title="BRASIL",TV THATHI
 https://thathi.akamaized.net/edge/live_d4f1bcf0e51f11e984d8672fa9a5f10a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
