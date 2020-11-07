@@ -923,6 +923,8 @@ http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9fdsMNM.png" group-title="RELIGIOSO",CANAL PROMESSAS
 http://canalpromessas.com.br/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/7zr5w0A.png" group-title="RELIGIOSO", TV CENTRAL DO BRASIL
+https://5cf4a2c2512a2.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1DA083I.png" group-title="RELIGIOSO",REDE CIDADE VIVA
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?da5811e7f0f6d2de95058aaa4c189620
 #EXTINF:-1 tvg-logo="https://imgur.com/hyNIGqK.png" group-title="RELIGIOSO",TV REINO
@@ -977,8 +979,6 @@ https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fY4HVfN.png" group-title="MUSICA",WEB TV GUETTO
 https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/7zr5w0A.png" group-title="MUSICA", TV CENTRAL DO BRASIL
-https://5cf4a2c2512a2.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/R7bLhYI.png" group-title="MUSICA", TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yeearVp.png" group-title="MUSICA", TV ESTADO
