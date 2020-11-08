@@ -971,8 +971,6 @@ https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="MUSICA", 88 STEREO
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/meNeQE6.png" group-title="MUSICA",MKK WEB TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fY4HVfN.png" group-title="MUSICA",WEB TV GUETTO
@@ -1029,6 +1027,8 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6ZPdRJV.png" group-title="MUSICA",CAROLINA TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="MUSICA", 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="MUSICA",POWER TV
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="MUSICA",TV 538
