@@ -134,6 +134,8 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV GO
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XG5Sqlk.png" group-title="BRASIL", TV SUCESSO GO
+https://hls.brasilstream.com.br/live/tvsucesso/tvsucesso/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9qikLEu.png" group-title="BRASIL", REDE TV
 http://189.91.128.150:5555/udp/227.10.20.122:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/TGVdBGB.png" group-title="BRASIL", REDE TV ES
@@ -487,8 +489,6 @@ https://cdn-hfpublicidade1.ciclano.io:1443/hfpublicidade1/hfpublicidade1/playlis
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OT8OzxT.png" group-title="BRASIL",TV RECON SAT
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OzNkOSk.png" group-title="BRASIL",TV RECON SAT SHOW
-https://stmv1.srvif.com/reconsatshow/reconsatshow/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2TEunx8.png" group-title="BRASIL",SC WEB TV
 https://5eaa6849d0971.streamlock.net:443/scwebtv/scwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="BRASIL", TV OMINDARE
@@ -945,8 +945,6 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 https://stmv1.srvstm.com/flavioferreira5381/flavioferreira5381/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Onprkf.png" group-title="RELIGIOSO",TV UNIVERSAL
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tXmcuEg.png" group-title="RELIGIOSO",TV RECON SAT GOSPEL
-https://stmv1.srvif.com/reconsatgospel/reconsatgospel/playlist-480p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/xHjtMq7.png" group-title="RELIGIOSO",WEB TV SHALOM
 https://streaming03.zas.media:443/shalomsjc/shalomsjc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GNQmHzY.png" group-title="RELIGIOSO",TV VERDADE
@@ -993,8 +991,6 @@ https://5abdf4edae5bf.streamlock.net:443/tvmoltvstation/tvmoltvstation/playlist.
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 #EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n8lt2Qt.png" group-title="MUSICA", ALX TV
-https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mTTW4zN.png" group-title="MUSICA",TV MAIS NORDESTE
