@@ -617,6 +617,8 @@ https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="BRASIL",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QX2S3KX.png" group-title="BRASIL",RS TV SUL
+http://video01.kshost.com.br/rede4451/rede4451/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0cDOd8.png" group-title="BRASIL",TV TRIBUNA LIVRE
 https://5abdf4edae5bf.streamlock.net/tribunalivretv/tribunalivretv/chunklist_w493172166.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUZ88aD.png" group-title="BRASIL",TV URUBURETAMA
