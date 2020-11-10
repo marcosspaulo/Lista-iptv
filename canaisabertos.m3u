@@ -40,6 +40,8 @@ https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8?token=8525688422037
 https://video-rvd-df-1.rnp.br/live/ocp(t(Fjvc5pNRuGA)r(fVR9ug)a(utDK3g)p(d(2xc)k(q8A)m(KhGD2nw_uWDky60N16Ztcg)n(a(fB5whg)s(ss0)'a(CUJAuw)s(1GI)))s(s(-Ks)b(s1u55ECccHYJcqlqkhpuyoPLskD9ngRBm7kst5Y2vJXNHELb_A1fbsk8wLEJiGTLUzke6sAQI7ac6D_4_g)'s(oKs)b(Udf1Qiczup98P6LzmeasFfjg6JGo47bA9DRMxyF0lPDpS18mGqCYH9UIs2p1Nwah33InvmWEv7ky3wojyKIqGTdLhEAZhVD6Ozuz31VR)'s(Tfo)b(bzpsEFDP))m(0))/30_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/drTRgpA.png" group-title="BRASIL",CSC TV
 https://livefocamundo.com:8081/8344/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/izrzvF4.png" group-title="BRASIL",SRC TV
+https://livefocamundo.com:8081/8416/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zPf2vVb.png" group-title="BRASIL",TV SIM COLATINA
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qE9hnaV.png" group-title="BRASIL",TVBE
@@ -965,6 +967,8 @@ https://stmv3.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5Z8Oq6m.png" group-title="MUSICA",MANAUS MIX WEB TV
 https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/brHGuZX.png" group-title="MUSICA",HITS MUSIC CHANNEL
+http://wowza.acessaradios.com.br:1935/tvhits/tvhits/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
