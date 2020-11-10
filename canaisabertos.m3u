@@ -963,6 +963,8 @@ https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.srvstm.com/gmusic/gmusic/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TvrTBbk.png" group-title="MUSICA", TV VIDA
+https://stmv3.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/evO7YEC.png" group-title="MUSICA", MASTER TV
 http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5Z8Oq6m.png" group-title="MUSICA",MANAUS MIX WEB TV
