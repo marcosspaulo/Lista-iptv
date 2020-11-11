@@ -2,9 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 31/10/2020
-http://0.0.0.0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
 http://0.0.0.0
 
@@ -274,8 +271,6 @@ https://5b7f3c45ab7c2.streamlock.net/8044/ngrp:8044/playlist.m3u8
 https://stmv.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ELRp88Z.png" group-title="BRASIL",TV REVISTA
 https://stmv1.srvif.com/tvrevista/tvrevista/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iln1bd4.png" group-title="BRASIL", TV LITORAL OSORIO
-http://video01.kshost.com.br/aluizio3406/aluizio3406/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bhXM675.png" group-title="BRASIL", RCC TV
@@ -719,8 +714,6 @@ http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0BTXlx8.png" group-title="BRASIL",STZ TV
 http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/chunklist_w960058628.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eHUtJl1.png" group-title="DESENHOS",LOCOMOTION TV
