@@ -320,6 +320,8 @@ https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.
 https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f7S6zaO.png" group-title="BRASIL", RWCG WEB TV
 https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2051078470.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
+https://5a57bda70564a.streamlock.net/alagonet/alagonet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wcMpBoY.png" group-title="BRASIL", WEB TV RS
 https://novo.bitstreaming.info:1936/webtvrstv/webtvrstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vOeuE3O.png" group-title="BRASIL", WEB TV KATURRA
@@ -434,7 +436,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdrGysh.png" group-title="BRASIL", TV TEEN NET
 https://srv4.zcast.com.br/tvteennet/tvteennet/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TfmphYR.png" group-title="BRASIL",TV 3 VIA
-https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="BRASIL", CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="BRASIL", TV CNB
